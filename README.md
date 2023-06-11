@@ -8,21 +8,28 @@ Swot is a community-driven or crowdsourced library for verifying that domain nam
 
 **Pop quiz:** Which of the following domain names should be eligible for an academic discount? `stanford.edu`, `america.edu`, `duep.edu`, `gla.ac.uk`, `unizar.es`, `usask.ca`, `hil.no`, `unze.ba`, `fu-berlin.de`, `ecla.de`, `bvb.de`, `lsmu.com`. Answers at the foot of the page.
 
+## Note - This is a fork of the original swot gem...
+which has since been archived. The original gem has gotten
+overwhelmed by false pull requests and issues. This fork
+removes the responsibility of maintaining the list of domains
+and emails from the gem and instead relies on a submodule
+to be updated. There is a nightly job which will update the
+submodule and push the changes to this repo. However, to pick up the new domains, a gem release will be required. I'm still
+considering the best path for this.
+
 ### Installation
-
-Swot is a Ruby gem, so you'll need a little Ruby-fu to get it working. Simply
-
-`gem install swot-ruby`
 
 Or add this to your `Gemfile` before doing a `bundle install`:
 
-`gem 'swot-ruby'`
+`gem 'swot-ruby', require 'swot'`
 
 Do not ref this repo directly in your Gemfile. It will not work. It relies on the submodule to be updated.
 
 ## Requirements
 
-- Ruby >= 2.6
+- Ruby >= 2.7
+
+Other versions of Ruby may work, but the gem is tested against the above versions.
 
 ### Usage
 
@@ -59,12 +66,11 @@ Swot::school_name 'http://www.stanford.edu'
 
 ### Contributing to Swot
 
-Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to add, update, or delete schools. Code contributions and ports to different languages welcome too.
+Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to add, update, or delete schools.
 
-**Thanks** to the following people for their contributions:
-@blutack, @captn3m0, @chrishunt, @johndbritton, @johnotander, @pborreli, @rcurtis, @vikhyat,.
-
-**Special thanks** to @weppos for the [public_suffix](https://github.com/weppos/publicsuffix-ruby) gem :metal:
+**Thanks** to @lreilly for the original implementation and
+you can find more thanks for the original contributors on
+the original repo.
 
 ### Known Issues
 
@@ -73,20 +79,6 @@ Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md)
 * There may be a few false positives, missing institutions... maybe even a couple of typos. Contributions welcome!
 
 **Please note:** just because someone has verified that they own `lreilly@stanford.edu` does *not* mean that they're a student. They could be faculty, staff, alumnni, or maybe even an external contractor. If you're suddenly getting a lot of traffic from websites like [FatWallet](http://www.fatwallet.com) or [SlickDeals](http://www.slickdeals.net), you might want to find out why. If you're suddenly getting a lot of requests from a particular school, you should look into that too. It may be good business, word of mouth, or someone may have found a loophole. Swot gives you a *high confidence level* - not a guarantee. I recommend putting some controls in place or at least monitor how it's doing from time to time.
-
-### What is a swot?
-
-According to [UrbanDictionary](http://www.urbandictionary.com/define.php?term=swot) :blue_book:
-
-> A word used by morons to insult a person of superior academic abilities.
-
-or
-
-> [verb] To Swot; Revision undertaken preceding an examination.
-
-or
-
-> [backronym] Stupid Waste of Time
 
 ### Pop Quiz Answers
 

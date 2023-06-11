@@ -1,13 +1,13 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = "swot-ruby"
-  s.version = "1.0.0"
+  s.version = "1.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Lee Reilly"]
-  s.date = "2015-07-10"
+  s.authors = ["Dave Kimura", "Lee Reilly"]
+  s.date = "2023-06-10"
   s.description = "Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts."
-  s.email = "lee@leereilly.net"
+  s.email = "dave@k-innovations.net"
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.md"

@@ -5,7 +5,7 @@ require_relative "swot/collection_methods"
 
 class Swot
 
-  VERSION = "0.4.2"
+  VERSION = "1.0.1"
 
   # These are domains that snuck into the edu registry,
   # but don't pass the education sniff test
