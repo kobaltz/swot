@@ -1,0 +1,30 @@
+name: Update Submodules
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+
+    - name: Update submodules
+      run: |
+        git submodule update --remote
+        git config --global user.name 'Dave Kimura'
+        git config --global user.email 'dave@k-innovations.net'
+
+    - name: Commit and push changes
+      run: |
+        git commit -am "Updated submodules"
+        git push
