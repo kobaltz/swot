@@ -82,12 +82,16 @@ class Swot
   # Returns true if the domain name belongs to a known academic institution;
   #  false otherwise.
   def academic_domain?
-    @academic_domain ||= File.exist?(file_path)
+    @academic_domain ||= File.exist?(file_path) || File.exist?(file_extended_path)
   end
 
   private
 
   def file_path
     @file_path ||= File.join(Swot::domains_path, domain.domain.to_s.split(".").reverse) + ".txt"
+  end
+
+  def file_extended_path
+    @file_extended_path ||= File.join([Swot::domains_path, domain.to_s.split(".").reverse].flatten) + ".txt"
   end
 end
