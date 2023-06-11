@@ -10,14 +10,7 @@ class Swot
   # These are domains that snuck into the edu registry,
   # but don't pass the education sniff test
   # Note: validated domain must not end with the blacklisted string
-  BLACKLIST = %w(
-    si.edu
-    america.edu
-    californiacolleges.edu
-    australia.edu
-    cet.edu
-    folger.edu
-  ).freeze
+  BLACKLIST = File.readlines('data/lib/domains/stoplist.txt').map(&:chomp).freeze
 
   include NaughtyOrNice
   extend SwotCollectionMethods
