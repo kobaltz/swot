@@ -12,15 +12,17 @@ Swot is a community-driven or crowdsourced library for verifying that domain nam
 
 Swot is a Ruby gem, so you'll need a little Ruby-fu to get it working. Simply
 
-`gem install swot`
+`gem install swot-ruby`
 
 Or add this to your `Gemfile` before doing a `bundle install`:
 
-`gem 'swot'`
+`gem 'swot-ruby'`
+
+Do not ref this repo directly in your Gemfile. It will not work. It relies on the submodule to be updated.
 
 ## Requirements
 
-- Ruby >= 2.0
+- Ruby >= 2.6
 
 ### Usage
 
