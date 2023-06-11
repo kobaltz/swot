@@ -12,22 +12,8 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md"
   ]
-  s.files = [
-    "CONTRIBUTING.md",
-    "Gemfile",
-    "LICENSE.txt",
-    "README.md",
-    "Rakefile",
-    "VERSION",
-    "lib/swot.rb",
-    "lib/swot/academic_tlds.rb",
-    "lib/swot/collection_methods.rb",
-    "swot.gemspec",
-    "test/helper.rb",
-    "test/test_collection_methods.rb",
-    "test/test_swot.rb"
-  ]
-  s.files << `git ls-files -z`.split("\x0") + Dir['data/lib/domains/*']
+
+  s.files = `git ls-files -z`.split("\x0") + Dir['data/lib/domains/*']
 
   Dir.glob('lib/domains/**/*.txt').each do |path|
     s.files << path if File.file?(path)
