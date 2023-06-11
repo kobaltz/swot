@@ -31,7 +31,7 @@ class Swot
     alias_method :school_name, :get_institution_name
 
     def domains_path
-      @domains_path ||= File.expand_path "domains", File.dirname(__FILE__)
+      @domains_path ||= File.expand_path "../data/lib/domains", File.dirname(__FILE__)
     end
 
     # Returns a new Swot instance for the domain file at the given path.
