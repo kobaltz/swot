@@ -17,6 +17,13 @@ to be updated. There is a nightly job which will update the
 submodule and push the changes to this repo. However, to pick up the new domains, a gem release will be required. I'm still
 considering the best path for this.
 
+## Versioning
+
+Since there is a reliance on the submodule's data being updated,
+there will be periodic releases that do not contain any code changes of this library. However, this library will follow the Semantic versioning + a date stamp of the latest list of academic institutions.
+
+For example, the gem `1.0.2.20230618` references to the gem version `1.0.2` and the list of academic institutions was last updated on `June 18th, 2023`.
+
 ### Installation
 
 Or add this to your `Gemfile` before doing a `bundle install`:
