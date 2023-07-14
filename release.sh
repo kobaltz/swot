@@ -1,9 +1,8 @@
 #!/bin/bash
 git pull
-git submodule update --init --recursive
 rm -rf academic_data
-cp -R data academic_data
-rm -rf academic_data/.git
+git submodule update --init --recursive
+cp -R data/lib/domains academic_data
 current_date=$(date +%Y%m%d)
 file_path="swot.gemspec"
 sed -i '' -E "s/(s\.version = \"[0-9\.]+\.)[0-9]{8}/\1$current_date/g" $file_path
