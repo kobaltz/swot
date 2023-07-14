@@ -20,6 +20,8 @@ describe Swot do
     assert Swot::is_academic?('dave@lsst.ac')
     assert Swot::is_academic?('dave@dcc.netpoint.com.bd')
     assert Swot::is_academic?('dave@student.gatewayhs.com')
+    assert Swot::is_academic?('dave@politecnics.barcelona')
+    assert Swot::is_academic?('me@nimsuniversity.org')
 
 
     assert_not Swot::is_academic?('support@driftingruby.com')

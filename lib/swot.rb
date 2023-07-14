@@ -5,12 +5,12 @@ require_relative "swot/collection_methods"
 
 class Swot
 
-  VERSION = "1.0.2"
+  VERSION = "1.0.3"
 
   # These are domains that snuck into the edu registry,
   # but don't pass the education sniff test
   # Note: validated domain must not end with the blacklisted string
-  BLACKLIST = File.readlines(File.join(__dir__, '../data/lib/domains/stoplist.txt')).map(&:chomp).freeze
+  BLACKLIST = File.readlines(File.join(__dir__, '../academic_data/lib/domains/stoplist.txt')).map(&:chomp).freeze
 
   include NaughtyOrNice
   extend SwotCollectionMethods
@@ -24,7 +24,7 @@ class Swot
     alias_method :school_name, :get_institution_name
 
     def domains_path
-      @domains_path ||= File.expand_path "../data/lib/domains", File.dirname(__FILE__)
+      @domains_path ||= File.expand_path "../academic_data/lib/domains", File.dirname(__FILE__)
     end
 
     # Returns a new Swot instance for the domain file at the given path.
