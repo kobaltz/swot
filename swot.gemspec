@@ -8,11 +8,6 @@ Gem::Specification.new do |s|
   s.date = "2023-06-10"
   s.description = "Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts."
   s.email = "dave@k-innovations.net"
-  s.extra_rdoc_files = [
-    "LICENSE.txt",
-    "README.md"
-  ]
-
   s.files = `git ls-files -z`.split("\x0") + Dir['data/lib/domains/*']
 
   s.homepage = "https://github.com/kobaltz/swot"

@@ -6,7 +6,6 @@ gem 'naughty_or_nice', "~> 2.0"
 group :development do
   gem "nokogiri"
   gem "rake"
-  gem "rdoc"
   gem "bundler"
   gem "minitest"
 end
