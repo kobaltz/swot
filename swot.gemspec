@@ -1,7 +1,6 @@
-# -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = "swot-ruby"
-  s.version = "1.0.4.20230718"
+  s.version = "1.0.5.20230718"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Dave Kimura", "Lee Reilly"]
@@ -18,7 +17,7 @@ Gem::Specification.new do |s|
   s.summary = "Identify email addresses or domains names that belong to colleges or universities."
   s.test_files = ["test/helper.rb", "test/test_collection_methods.rb", "test/test_swot.rb"]
 
-  s.add_dependency('public_suffix', ">= 0")
   s.add_dependency('naughty_or_nice', "~> 2.0")
+  s.add_dependency('public_suffix', ">= 0")
 end
 

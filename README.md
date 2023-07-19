@@ -108,11 +108,10 @@ Hopefully, you'll be surprised by some of this:
 
 If you verified this by visiting all of the websites, how long did it take you? Did you have fun? Imagine you had to do this 10 - 100 times every day. Now you know a little something about the inspiration for Swot. Swot can verify them all in a fraction of a second and remove a :poop: part of someone's job.
 
-### See Also
+#### Contributing to Swot
 
-* [gman](https://github.com/benbalter/gman) - like swot, but for government emails
-* [swotphp](https://github.com/mdwheele/swotphp) - PHP port of Swot
-* [swot-js](https://github.com/theotow/swot-js) - JS port of Swot
-* [swot-simple](https://github.com/mapbox/swot-simple) - JS port of Swot
-* [swot-clj](https://github.com/ipavl/swot-clj) - Clojure port of Swot
-* [swot](https://github.com/abadojack/swot) - Go port of Swot
+##### Updating the database
+
+https://github.com/jetbrains/swot is the canonical source of truth for the list of domains.
+If you want to add a new domain, please submit a pull request there. This database is updated
+periodically based on the information in that repository.
