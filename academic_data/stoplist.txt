@@ -967,7 +967,7 @@ aejuliodinis.edu.pt
 psu.edu.eg
 live.mut.ac.za
 atsu.edu.ge
-student.uin-suka.ac.id
+uin-suka.ac.id
 stu.meu.edu.jo
 myseneca.ca
 petkasem.ac.th
@@ -1394,3 +1394,6 @@ mail.uca.es
 mail.smasidhikarya.sch.id
 bupt.edu.cn
 bupt.cn
+uregina.ca
+webdmc.delmar.edu
+mi.unc.edu.ar
