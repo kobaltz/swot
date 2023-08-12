@@ -1547,3 +1547,12 @@ estudante.ifes.edu.br
 est.umet.edu.ec
 my.fsu.edu
 axhu.edu.cn
+comunidad.unam.mx
+ualberta.ca
+hanoi.itrithuc.vn
+spokane.edu
+students.ncc.edu
+upd.edu.ph
+library.arizona.edu
+library.harvard.edu
+hungyen.itrithuc.vn
