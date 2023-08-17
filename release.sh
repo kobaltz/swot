@@ -11,7 +11,11 @@ version_number=$(grep -o -E "s\.version = \"[0-9\.]+$current_date\"" $file_path 
 
 git add -A .
 git commit -m "Updated academic list - $current_date"
+git tag $version_number
+
 git push
+git push --tags
+
 gem build swot.gemspec
 
 gem push swot-ruby-$version_number.gem
