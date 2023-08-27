@@ -18,4 +18,4 @@ git push --tags
 
 gem build swot.gemspec
 
-gem push swot-ruby-$version_number.gem
+gem push swot-ruby-$version_number.gem --otp $(op item get rubygems.org --otp)
