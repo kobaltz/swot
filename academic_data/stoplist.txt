@@ -1571,7 +1571,6 @@ student.cup.edu.cn
 aulamexiquense.mx
 student.prasetiyamulya.ac.id
 smksingaparna.sch.id
-dmu.ac.uk
 marun.edu.tr
 my.fsu.edu
 student.rtc.edu
@@ -1648,3 +1647,11 @@ ucsc.edu
 uchicago.edu
 my.stvt.edu
 student.edu.az
+mail2.gantep.edu.tr
+pdsu.edu.cn
+wow.hongik.ac.kr
+nacc.edu
+student.ccc.edu
+utc.edu.vn
+student.hcmus.edu.vn
+dmu.ac.uk
