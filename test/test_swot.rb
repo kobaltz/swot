@@ -10,6 +10,7 @@ describe Swot do
     assert Swot::is_academic?('lreilly@strath.ac.uk')
     assert Swot::is_academic?('lreilly@soft-eng.strath.ac.uk')
     assert Swot::is_academic?('lee@ugr.es')
+    assert_not Swot::is_academic?('lee@uottawa.ca')
     assert Swot::is_academic?('lee@mother.edu.ru')
     assert Swot::is_academic?('lee@ucy.ac.cy')
     assert Swot::is_academic?('dave.kimura@osu.edu')
@@ -37,7 +38,7 @@ describe Swot do
     assert Swot::is_academic?('strath.ac.uk')
     assert Swot::is_academic?('soft-eng.strath.ac.uk')
     assert Swot::is_academic?('ugr.es')
-    assert Swot::is_academic?('uottawa.ca')
+    assert_not Swot::is_academic?('uottawa.ca')
     assert Swot::is_academic?('mother.edu.ru')
     assert Swot::is_academic?('ucy.ac.cy')
 
