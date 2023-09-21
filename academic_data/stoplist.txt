@@ -370,7 +370,6 @@ stu.just.edu.cn
 stu.kust.edu.cn
 stu.liiajc.me
 stumail.sdut.edu.cn
-stu.mziuri.edu.ge
 stu.ncwu.edu.cn
 stu.nmu.edu.cn
 stu.nun.edu.cn
@@ -495,7 +494,7 @@ masu.edu.cn
 unijos.edu.ng
 cczu.edu.cn
 sdust.edu.cn
-anadolu.edu.tr
+aof.anadolu.edu.tr
 unimetroangola.com
 freenet.kg
 kyile.website
@@ -1632,7 +1631,6 @@ stu.usc.edu.cn
 edu.fh-wien.ac.at
 martinmethodist.edu
 haramaya.edu.et
-chalmers.se
 scccd.edu
 parrastu.catholic.edu.au
 usim.edu.my
@@ -1782,3 +1780,12 @@ nac.ucr.ac.cr
 bvp.edu.in
 st.fhv.uniza.sk
 metropolitan.ac.rs
+whit.edu.cn
+aiit.edu.cn
+madina.ac.ma
+comunidadort.edu.ar
+my.miller-motte.edu
+connect.polyu.hk
+alu.cdut.edu.cn
+usanandres.cl
+rswol-iserv.info
