@@ -1789,3 +1789,15 @@ connect.polyu.hk
 alu.cdut.edu.cn
 usanandres.cl
 rswol-iserv.info
+cbu.ac.kr
+cbnu.ac.kr
+nyist.edu.cn
+ufuk.edu.tr
+mail.rmu.edu
+alumni.upenn.edu
+kku.edu.tr
+unimi.it
+coastalbend.edu
+mun.ca
+live.uem.es
+uni-wuppertal.de
