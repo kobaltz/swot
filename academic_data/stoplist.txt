@@ -346,7 +346,7 @@ student.oaklandcc.edu
 student.ohlone.edu
 student.ptithcm.edu.vn
 student.rockvalleycollege.edu
-student.sbccd.edu
+sbccd.edu
 students.cccti.edu
 student.scf.edu
 student.smc.edu
@@ -1705,7 +1705,6 @@ live.kmu.edu.tw
 ntu.edu.tw
 my.berks.edu
 stu.sumhs.edu.cn
-uci.edu
 mpsaz.org
 mail.aeust.edu.tw
 austincc.edu
@@ -1829,3 +1828,9 @@ sues.edu.cn
 csu.edu.cn
 stu.qlu.edu.cn
 poornima.ac.in
+mail.au.edu.pk
+etu.univ-amu.fr
+uartes.edu.ec
+hindscc.edu
+hacc.edu
+utfpr.edu.br
