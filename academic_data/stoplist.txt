@@ -1832,3 +1832,7 @@ uartes.edu.ec
 hindscc.edu
 hacc.edu
 utfpr.edu.br
+clpccd.edu
+students.laredo.edu
+mezun.deu.edu.tr
+student.mau.edu.ng
