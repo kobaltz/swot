@@ -1775,7 +1775,6 @@ student.xjtlu.edu.cn
 nac.ucr.ac.cr
 bvp.edu.in
 st.fhv.uniza.sk
-metropolitan.ac.rs
 whit.edu.cn
 aiit.edu.cn
 madina.ac.ma
@@ -1859,3 +1858,6 @@ red.ujaen.es
 abu.edu.ng
 student.hactech.edu.vn
 iitu.edu.kz
+retired.bogazici.edu.tr
+alum.bogazici.edu.tr
+ybu.edu.tr
