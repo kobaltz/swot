@@ -1176,7 +1176,7 @@ students.mohave.edu
 cuiatd.edu.pk
 itu.edu.tr
 mso365.ulp.pt
-r4a-1.deped.gov.ph
+deped.gov.ph
 cic.pt
 student.cankaya.edu.tr
 uopstd.edu.jo
@@ -1861,3 +1861,8 @@ iitu.edu.kz
 retired.bogazici.edu.tr
 alum.bogazici.edu.tr
 ybu.edu.tr
+umsida.ac.id
+vtsnis.edu.rs
+ricstudent.com
+el-eng.menofia.edu.eg
+st.knust.edu.gh
