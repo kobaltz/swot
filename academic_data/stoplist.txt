@@ -733,7 +733,6 @@ students.fui.edu.pk
 ucacue.edu.ec
 stu.kemu.ac.ke
 dlsud.edu.ph
-pharm.bsu.edu.eg
 rangers.nwosu.edu
 correo.itm.edu.co
 zetech.ac.ke
@@ -1878,3 +1877,17 @@ tiangong.edu.cn
 ogr.sakarya.edu.tr
 alumni.uniba.it
 tutaunggyi.edu.mm
+kmd.edu.mm
+ucm.ac.mz
+stu.ccit.edu.cn
+stud.unifi.it
+alu.uestc.edu.cn
+students.mccc.edu
+mails.zstu.edu.cn
+fu-berlin.de
+etudiant.univ-rennes1.fr
+coastalbend.edu
+lamarpa.edu
+students.laredo.edu
+bsu.edu.ru
+mccann.edu
