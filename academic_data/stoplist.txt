@@ -1741,7 +1741,6 @@ students.wiut.uz
 apps.ntpc.edu.tw
 my.columbiasc.edu
 jnu.edu.cn
-technikum-wien.at
 ruc.edu.cn
 daytonastate.edu
 istitutomasterform.it
@@ -1975,3 +1974,8 @@ s.konan-u.ac.jp
 student.tp.edu.sg
 mail.utoronto.ca
 my.cityu.edu.hk
+rsu.edu.lv
+aluno.newtonpaiva.br
+discente.ufopa.edu.br
+student.usm.my
+alumnos365.xoc.uam.mx
