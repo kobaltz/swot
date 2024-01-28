@@ -263,6 +263,7 @@ palomar.edu
 paofu.us
 peking.pkumail.tech
 pekingwebmail.tech
+phystech.edu
 pipeline.sbcc.edu
 post.eurasia.edu
 pycharm.ac.cn
@@ -1592,7 +1593,6 @@ student.utcb.ro
 mhs.its.ac.id
 moe.edu.kn
 ncc.edu
-uoc.gr
 sqxy.edu.cn
 jsahvc.edu.cn
 student.cup.edu.cn
@@ -1688,7 +1688,6 @@ rhedu.org.il
 std.bau.edu.jo
 std.kyu.ac.ug
 stu.k12.wv.us
-student.cvtc.edu
 students.namcol.edu.na
 uniandes.edu.ec
 uottawa.ca
@@ -2001,3 +2000,5 @@ library.sacsites.csus.edu
 comunidadort.edu.ar
 mccc.edu
 idea.edu.cn
+kau.edu.sa
+tzc.edu.cn
