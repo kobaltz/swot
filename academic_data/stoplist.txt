@@ -1844,7 +1844,6 @@ etu.u-bordeaux.fr
 etud.u-picardie.fr
 uniwa.gr
 uowm.gr
-red.ujaen.es
 abu.edu.ng
 student.hactech.edu.vn
 iitu.edu.kz
@@ -1943,7 +1942,7 @@ cau.ac.kr
 std.neu.edu.tr
 o365.u-szeged.hu
 lpru.ac.th
-dac.unicamp.br
+unicamp.br
 student.sru.ac.th
 kkumail.com
 cassia.kku.ac.th
