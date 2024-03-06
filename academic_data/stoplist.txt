@@ -535,7 +535,6 @@ stu.yznu.cn
 kfu.edu.cn
 smail.cczu.edu.cn
 cu.edu.kg
-kangnam.ac.kr
 stu.sxau.edu.cn
 matc.edu
 pgc.edu.pk
@@ -1015,7 +1014,6 @@ maranatha.edu
 ibero.edu.co
 student.bahria.edu.pk
 tacomacc.edu
-soongsil.ac.kr
 uts.edu.ve
 st.schools.ac.cy
 uv.edu.ph
@@ -1077,7 +1075,6 @@ studenti.unical.it
 csn.edu.pk
 lawsonstate.edu
 student.nibm.lk
-soongsil.ac.kr
 noun.edu.ng
 student.mercubuana.ac.id
 coep.ac.in
@@ -1404,7 +1401,6 @@ anahuac.mx
 shafc.edu.cn
 kientruchanoi.edu.vn
 stonabemowie.edu.pl
-khu.ac.kr
 tamu.edu
 shafc.edu.cn
 ogr.deu.edu.tr
@@ -1624,7 +1620,6 @@ my.stvt.edu
 student.edu.az
 mail2.gantep.edu.tr
 pdsu.edu.cn
-wow.hongik.ac.kr
 nacc.edu
 student.ccc.edu
 utc.edu.vn
@@ -1784,7 +1779,6 @@ st.uew.edu.gh
 nou.edu.np
 g.batstate-u.edu.ph
 ucs.br
-g.hongik.ac.kr
 aluno.uece.br
 stu.bzuu.edu.cn
 maine.edu
@@ -1925,7 +1919,6 @@ liberty.edu
 haiphong.itrithuc.vn
 umn.edu
 cmich.edu
-cau.ac.kr
 std.neu.edu.tr
 o365.u-szeged.hu
 lpru.ac.th
@@ -1949,7 +1942,6 @@ alumnos365.xoc.uam.mx
 silpakorn.edu
 su.ac.th
 stu.neisd.net
-g.seoultech.ac.kr
 fti.edu.al
 ddsbstudent.ca
 unimoron.edu.ar
@@ -1983,3 +1975,6 @@ ogr.akdeniz.edu.tr
 o.cnu.ac.kr
 ydu.edu.tw
 setsuna.eu.org
+mymail.lausd.net
+tranquillity.ee
+academico.ifrn.edu.br
