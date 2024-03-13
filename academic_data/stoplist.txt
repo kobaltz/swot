@@ -1825,7 +1825,6 @@ uniwa.gr
 uowm.gr
 abu.edu.ng
 student.hactech.edu.vn
-iitu.edu.kz
 retired.bogazici.edu.tr
 alum.bogazici.edu.tr
 ybu.edu.tr
@@ -1975,3 +1974,13 @@ setsuna.eu.org
 mymail.lausd.net
 tranquillity.ee
 academico.ifrn.edu.br
+student.unand.ac.id
+my.buu.ac.th
+me.buet.ac.bd
+dekalbschoolsga.org
+alumni.ncyu.edu.tw
+ncku.edu.tw
+metmans.edu.eg
+sanbeda.edu.ph
+aua.gr
+student.ugal.ro
