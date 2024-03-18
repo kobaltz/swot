@@ -1702,7 +1702,6 @@ buaa.edu.cn
 vctx.edu
 monroecc.edu
 hedaya.edu.sa
-student.mcckc.edu
 ictu.edu.vn
 st.neu.edu.vn
 educar.rs.gov.br
@@ -1872,7 +1871,6 @@ univ-emir.dz
 stu.swun.edu.cn
 uap.edu.ar
 stumail.nwu.edu.cn
-tum.de
 pdpu.edu.ua
 oi.edu.eg
 c3chuvanan.edu.vn
