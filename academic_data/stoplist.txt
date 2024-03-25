@@ -36,7 +36,6 @@ borg-kindberg.at
 edu.fh-wien.ac.at
 fountaingatesc.vic.edu.au
 student.unsw.edu.au
-uon.edu.au
 alumni.anu.edu.au
 traralsc.vic.edu.au
 sunburysc.vic.edu.au
@@ -1057,7 +1056,6 @@ eng.sohag.edu.eg
 s-mu.edu.eg
 miniauniv.edu.eg
 domazhermedicine.edu.eg
-student.guc.edu.eg
 el-eng.menofia.edu.eg
 oi.edu.eg
 fmed.bu.edu.eg
@@ -1088,7 +1086,6 @@ educa.jcyl.es
 alum.uca.es
 amu.edu.et
 haramaya.edu.et
-viacesi.fr
 univ-caen.fr
 edu.sorbonne-paris-nord.fr
 mancheopenschool.fr
@@ -1096,7 +1093,6 @@ etu.u-pec.fr
 esad-valenciennes.fr
 epfedu.fr
 ecam.fr
-etu.univ-amu.fr
 etu.u-bordeaux.fr
 etud.u-picardie.fr
 etudiant.univ-rennes1.fr
@@ -1266,7 +1262,6 @@ cu.edu.kg
 powerbi.edu.kg
 hust.edu.kg
 insan.edu.kg
-rupp.edu.kh
 rule.edu.kh
 water.itc.edu.kh
 sh.bbu.edu.kh
@@ -1838,7 +1833,6 @@ neu.edu.vn
 daihocyhanoi.edu.vn
 ump.edu.vn
 hust.edu.vn
-fpt.edu.vn
 lttc.edu.vn
 ms.daihocthudo.edu.vn
 cta.edu.vn
@@ -1900,3 +1894,6 @@ student.uj.ac.za
 tut4life.ac.za
 my.milpark.ac.za
 eaglesvale.ac.zw
+email.ncu.edu.cn
+gnnu.edu.cn
+smail.xtu.edu.cn
