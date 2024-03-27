@@ -95,7 +95,6 @@ mackenzista.com.br
 academico.ifg.edu.br
 sempreuninorte.com.br
 eniac.edu.br
-sga.pucminas.br
 sempreuninassau.com.br
 etec.sp.gov.br
 sempreunijuazeiro.com.br
@@ -876,7 +875,6 @@ mail.aub.edu
 philander.edu
 npi.edu
 alum.urmc.rochester.edu
-amrita.edu
 maricopa.edu
 converse.edu
 aim.edu
@@ -1129,7 +1127,6 @@ intecap.edu.gt
 graduate.hku.hk
 ljb.edu.hk
 student.isf.edu.hk
-my.cityu.edu.hk
 unah.hn
 unah.edu.hn
 unah.edu.hn
@@ -1287,7 +1284,6 @@ art.edu.lv
 rsu.edu.lv
 uot.edu.ly
 edu.uca.ma
-edu.umi.ac.ma
 iga-marrakech.ma
 um5.ac.ma
 ofppt-edu.ma
@@ -1465,7 +1461,6 @@ spjain.org
 educadventista.org
 setsuna.eu.org
 dekalbschoolsga.org
-utp.ac.pa
 up.ac.pa
 meduca.edu.pa
 meduca.edu.pa
@@ -1501,7 +1496,6 @@ upn.pe
 csu.ph
 plm.edu.ph
 feucanvas.edu.ph
-iskolarngbayan.pup.edu.ph
 sti.edu.ph
 mcl.edu.ph
 mymail.mapua.edu.ph
@@ -1558,7 +1552,6 @@ k.tut.edu.pl
 lxiv.secondary.edu.pl
 student.wstkt.edu.pl
 wstkt.edu.pl
-student.wsb.edu.pl
 kwiatek365.pl
 stud.ur.edu.pl
 stonabemowie.edu.pl
@@ -1580,7 +1573,6 @@ edu.atec.pt
 aealcochete.edu.pt
 aluno.agvaf.edu.pt
 etap.edu.pt
-alunos.ipb.pt
 alunos.estgv.ipv.pt
 mec.edu.py
 alumnos.uninorte.edu.py
@@ -1608,7 +1600,6 @@ udsu.ru
 bsu.edu.ru
 cs.ifmo.ru
 stud.ur.ac.rw
-student.ksu.edu.sa
 rb.moe.gov.sa
 rg.moe.gov.sa
 sm.imamu.edu.sa
@@ -1832,7 +1823,6 @@ sv.ussh.edu.vn
 neu.edu.vn
 daihocyhanoi.edu.vn
 ump.edu.vn
-hust.edu.vn
 lttc.edu.vn
 ms.daihocthudo.edu.vn
 cta.edu.vn
@@ -1841,7 +1831,6 @@ ittc.edu.vn
 mail.tdc.edu.vn
 huaf.edu.vn
 nttu.edu.vn
-vnu.edu.vn
 sv.ussh.edu.vn
 phuocbinh.edu.vn
 vaa.edu.vn
@@ -1850,15 +1839,12 @@ vinhuni.edu.vn
 vief.edu.vn
 student.hiu.vn
 sv.hotec.edu.vn
-stu.ptit.edu.vn
 student.hiu.vn
 student.huc.edu.vn
 e.tlu.edu.vn
 thpt-baria-brvt.edu.vn
 student.huc.edu.vn
-student.iuh.edu.vn
 hup.edu.vn
-uit.edu.vn
 kientruchanoi.edu.vn
 hcc2.edu.vn
 dtu.edu.vn
@@ -1867,13 +1853,10 @@ kientruchanoi.edu.vn
 hanoi.itrithuc.vn
 hungyen.itrithuc.vn
 utc.edu.vn
-student.hcmus.edu.vn
 lms.utc.edu.vn
 due.udn.vn
-actvn.edu.vn
 ictu.edu.vn
 st.neu.edu.vn
-fpt.edu.vn
 student.hactech.edu.vn
 hce.edu.vn
 ftu.edu.vn
@@ -1883,7 +1866,6 @@ kthcm.edu.vn
 haiphong.itrithuc.vn
 kyile.website
 mail.0du.win
-mylife.unisa.ac.za
 lsdc.co.za
 live.mut.ac.za
 tut4life.ac.za
@@ -1897,3 +1879,7 @@ eaglesvale.ac.zw
 email.ncu.edu.cn
 gnnu.edu.cn
 smail.xtu.edu.cn
+knue.ac.kr
+tepeaca.tecnm.mx
+office.bufs.ac.kr
+share.epsb.ca
