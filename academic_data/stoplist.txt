@@ -1038,7 +1038,6 @@ alexu.edu.eg
 cis.edu.eg
 psu.edu.eg
 medicine.zu.edu.eg
-nu.edu.eg
 ecu.edu.eg
 sh-eng.menofia.edu.eg
 pme.suezuni.edu.eg
@@ -1159,7 +1158,6 @@ student.universitaspertamina.ac.id
 my.stmikbumigora.ac.id
 mail.smasidhikarya.sch.id
 sekolahnasima.sch.id
-ecampus.ut.ac.id
 student.smawirausaha.sch.id
 student.prasetiyamulya.ac.id
 smksingaparna.sch.id
@@ -1203,7 +1201,6 @@ bvp.edu.in
 mujonline.edu.in
 acoe.edu.in
 poornima.ac.in
-iitg.ac.in
 unisilvaner.info
 hstu.info
 vsma.info
@@ -1607,7 +1604,6 @@ qu.edu.sa
 kau.edu.sa
 upm.edu.sa
 kst.edu.sg
-ichat.sp.edu.sg
 student.tp.edu.sg
 scsl.si
 st.fhv.uniza.sk
@@ -1837,8 +1833,6 @@ st.huflit.edu.vn
 kientruchanoi.edu.vn
 hanoi.itrithuc.vn
 hungyen.itrithuc.vn
-utc.edu.vn
-lms.utc.edu.vn
 due.udn.vn
 ictu.edu.vn
 student.hactech.edu.vn
