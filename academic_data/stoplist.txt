@@ -869,7 +869,6 @@ usg.edu
 clackamas.edu
 aub.edu
 univalle.edu
-mail.aub.edu
 philander.edu
 npi.edu
 alum.urmc.rochester.edu
@@ -1510,7 +1509,6 @@ students.muet.edu.pk
 ucp.edu.pk
 students.fui.edu.pk
 uoh.edu.pk
-isbstudent.comsats.edu.pk
 giki.edu.pk
 mul.edu.pk
 ssuet.edu.pk
@@ -1586,7 +1584,6 @@ cs.ifmo.ru
 stud.ur.ac.rw
 rb.moe.gov.sa
 rg.moe.gov.sa
-sm.imamu.edu.sa
 mu.edu.sa
 st.uqu.edu.sa
 uj.edu.sa
@@ -1873,3 +1870,11 @@ stud.iuav.it
 stu.templejc.edu
 brightacademy.ac.in
 aebpc.edu.pt
+my.buu.ac.th
+doc.emi.edu.bo
+spulive.net
+bnca.ac.in
+uit.edu.mm
+knlu.edu.ua
+upsamail.edu.gh
+itc.ac.kr
