@@ -949,7 +949,6 @@ my.stvt.edu
 nacc.edu
 student.ccc.edu
 alumni.conncoll.edu
-ms.pict.edu
 my.monroeccc.edu
 my.columbiasc.edu
 sanjuancollege.edu
@@ -1455,7 +1454,6 @@ idat.edu.pe
 postgradoutp.edu.pe
 alumnos.unp.edu.pe
 unasam.edu.pe
-utp.edu.pe
 sencico.edu.pe
 cientifica.edu.pe
 alu.uap.edu.pe
@@ -1471,7 +1469,6 @@ unm.edu.pe
 continental.edu.pe
 idat.edu.pe
 raimondi.edu.pe
-utp.edu.pe
 senati.pe
 usil.pe
 usmp.pe
@@ -1485,7 +1482,6 @@ mymail.mapua.edu.ph
 dlsud.edu.ph
 calamba.sti.edu.ph
 uv.edu.ph
-slu.edu.ph
 student.mseuf.edu.ph
 ocgs.edu.ph
 deped.gov.ph
@@ -1505,7 +1501,6 @@ khi.iba.edu.pk
 ntu.edu.pk
 pgc.edu.pk
 alpha.edu.pk
-students.muet.edu.pk
 ucp.edu.pk
 students.fui.edu.pk
 uoh.edu.pk
@@ -1585,7 +1580,6 @@ stud.ur.ac.rw
 rb.moe.gov.sa
 rg.moe.gov.sa
 mu.edu.sa
-st.uqu.edu.sa
 uj.edu.sa
 pmu.edu.sa
 stu.jazanu.edu.sa
@@ -1653,7 +1647,6 @@ chula.ac.th
 live.ku.th
 anc.ac.th
 mahidol.ac.th
-cmu.ac.th
 tsu.ac.th
 lpru.ac.th
 student.sru.ac.th
@@ -1799,9 +1792,7 @@ sg.edu.vn
 tu.edu.vn
 inu.edu.vn
 sv.ussh.edu.vn
-neu.edu.vn
 daihocyhanoi.edu.vn
-ump.edu.vn
 lttc.edu.vn
 ms.daihocthudo.edu.vn
 cta.edu.vn
@@ -1855,7 +1846,6 @@ email.ncu.edu.cn
 gnnu.edu.cn
 smail.xtu.edu.cn
 knue.ac.kr
-tepeaca.tecnm.mx
 office.bufs.ac.kr
 share.epsb.ca
 perpetual.edu.ph
@@ -1878,3 +1868,4 @@ uit.edu.mm
 knlu.edu.ua
 upsamail.edu.gh
 itc.ac.kr
+ust.ac.kr
