@@ -554,7 +554,6 @@ mail.escuelaing.edu.co
 institutomerani.edu.co
 correo.usbcali.edu.co
 campusvirtual.aunarvillavicencio.edu.co
-udea.edu.co
 upb.edu.co
 tecnocomfenalco.edu.co
 cuc.edu.co
@@ -625,7 +624,6 @@ estudiantes.cordillera.edu.ec
 ug.edu.ec
 indoamerica.edu.ec
 ucacue.edu.ec
-unemi.edu.ec
 pucese.edu.ec
 espoch.edu.ec
 uce.edu.ec
@@ -791,7 +789,6 @@ tcathartsville.edu
 student.olympic.edu
 alumni.msoe.edu
 whitecaps.gc.edu
-amity.edu
 barstow.edu
 my.witcc.edu
 my.barstow.edu
@@ -814,7 +811,6 @@ holmescc.edu
 navarrocollege.edu
 cwru.edu
 lau.edu
-pcc.edu
 rangers.nwosu.edu
 batestech.edu
 student.lccc.wy.edu
@@ -1032,7 +1028,6 @@ art.dmu.edu.eg
 sh-eng.menofia.edu.eg
 ci.suez.edu.eg
 kafrelsheikh2.moe.edu.eg
-alexu.edu.eg
 cis.edu.eg
 psu.edu.eg
 medicine.zu.edu.eg
@@ -1071,7 +1066,6 @@ mail.ucv.es
 alumnos.uvigo.es
 mail.uca.es
 campus.eug.es
-uniovi.es
 live.uem.es
 educastur.es
 educa.jcyl.es
@@ -1133,7 +1127,6 @@ queens.ac.id
 students.smanra.sch.id
 mercubuana.ac.id
 students.uajy.ac.id
-student.ub.ac.id
 mahasiswa.itb.ac.id
 mahasiswa.itb.ac.id
 mail.umy.ac.id
@@ -1176,7 +1169,6 @@ uopca.unipune.ac.in
 csiriicb.in
 wmoenglishacademy.co.in
 kvsrodehradun.co.in
-geu.ac.in
 mitid.edu.in
 sjbit.edu.in
 ced.alliance.edu.in
@@ -1546,7 +1538,6 @@ alunos.isel.pt
 mso365.ulp.pt
 cic.pt
 esec.pt
-edu.atec.pt
 aealcochete.edu.pt
 aluno.agvaf.edu.pt
 etap.edu.pt
@@ -1876,3 +1867,8 @@ g.hongik.ac.kr
 student.buitms.edu.pk
 ebimal.edu.ar
 avicenna.uobasrah.edu.iq
+fafu.edu.cn
+jmail.ac.kr
+aik.edu.kg
+up.ac.th
+mochis.tecnm.mx
