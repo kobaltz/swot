@@ -22,7 +22,6 @@ alumnos.kennedy.edu.ar
 iesdelatuel.edu.ar
 mi.unc.edu.ar
 alu.frlp.utn.edu.ar
-alumno.unlam.edu.ar
 frsf.utn.edu.ar
 campus.economicas.uba.ar
 unla.edu.ar
@@ -618,7 +617,6 @@ itla.edu.do
 est.uasd.edu.do
 unapec.edu.do
 univ-emir.dz
-utpl.edu.ec
 puce.edu.ec
 estudiantes.cordillera.edu.ec
 ug.edu.ec
@@ -1059,7 +1057,6 @@ siswa.email
 stu.colegiotorremalmuerta.es
 colegiotorremalmuerta.es
 acarballeira.es
-alumno.uned.es
 ceuandalucia.es
 alum.us.es
 mail.ucv.es
@@ -1067,7 +1064,6 @@ alumnos.uvigo.es
 mail.uca.es
 campus.eug.es
 live.uem.es
-educastur.es
 educa.jcyl.es
 alum.uca.es
 amu.edu.et
@@ -1615,7 +1611,6 @@ dome.tu.ac.th
 rmutl.ac.th
 rmutr.ac.th
 stu.pim.ac.th
-student.chula.ac.th
 dpu.ac.th
 cpru.ac.th
 rmu.ac.th
@@ -1864,6 +1859,7 @@ dsu.ac.kr
 univ-barackobama.com
 office.uos.ac.kr
 g.hongik.ac.kr
+edu.hanbat.ac.kr
 student.buitms.edu.pk
 ebimal.edu.ar
 avicenna.uobasrah.edu.iq
