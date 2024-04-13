@@ -1853,7 +1853,6 @@ bnca.ac.in
 uit.edu.mm
 knlu.edu.ua
 upsamail.edu.gh
-itc.ac.kr
 ust.ac.kr
 dsu.ac.kr
 univ-barackobama.com
@@ -1870,3 +1869,5 @@ up.ac.th
 mochis.tecnm.mx
 suez.edu.eg
 gndec.ac.in
+schools.vic.edu.au
+ms.kbu.ac.th
