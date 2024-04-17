@@ -72,14 +72,12 @@ al.insper.edu.br
 alumni.usp.br
 faculdadefia.edu.br
 pucgo.edu.br
-aluno.unip.br
 aluno.unicarioca.edu.br
 ufpa.br
 aluno.ies.edu.br
 ulbra.edu.br
 edu.univali.br
 alunosatc.edu.br
-pucpr.edu.br
 academico.ifmg.edu.br
 unifacs.edu.br
 sempreung.com.br
@@ -1011,11 +1009,11 @@ thebes.edu.eg
 std.aou.edu.eg
 nub.edu.eg
 tanta.edu.eg
-bsu.edu.eg
+pharm.bsu.edu.eg
+commerce.bsu.edu.eg
 modern-academy.edu.eg
 buc.edu.eg
 azhar.edu.eg
-dakahliya1.moe.edu.eg
 o6u.edu.eg
 qaliobia4.moe.edu.eg
 sharkia1.moe.edu.eg
@@ -1048,7 +1046,7 @@ fmed.bu.edu.eg
 agri.aru.edu.eg
 au.edu.eg
 akhbaracademy.edu.eg
-dmu.edu.eg
+vetmed.dmu.edu.eg
 alex3.moe.edu.eg
 aiet.edu.eg
 metmans.edu.eg
@@ -1098,7 +1096,6 @@ eap.gr
 ac.eap.gr
 uop.gr
 ee.duth.gr
-auth.gr
 uniwa.gr
 uowm.gr
 aua.gr
@@ -1384,7 +1381,6 @@ mymail.lausd.net
 unijos.edu.ng
 uniabuja.edu.ng
 students.unilorin.edu.ng
-futa.edu.ng
 live.unilag.edu.ng
 noun.edu.ng
 student.mau.edu.ng
@@ -1871,3 +1867,11 @@ suez.edu.eg
 gndec.ac.in
 schools.vic.edu.au
 ms.kbu.ac.th
+hbucm.edu.cn
+gcsurat.gujgov.edu.in
+miucateci.edu.do
+inseec-france.com
+univ.seitoku.ac.jp
+nerist.ac.in
+becbapatla.ac.in
+uic.ac.ma
