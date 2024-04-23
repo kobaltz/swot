@@ -1634,7 +1634,6 @@ lpru.ac.th
 student.sru.ac.th
 cassia.kku.ac.th
 su.ac.th
-my.buu.ac.th
 kbtut.tj
 tk
 esprims.tn
@@ -1842,13 +1841,6 @@ stud.iuav.it
 stu.templejc.edu
 brightacademy.ac.in
 aebpc.edu.pt
-my.buu.ac.th
-doc.emi.edu.bo
-spulive.net
-bnca.ac.in
-uit.edu.mm
-knlu.edu.ua
-upsamail.edu.gh
 ust.ac.kr
 dsu.ac.kr
 univ-barackobama.com
@@ -1875,3 +1867,13 @@ univ.seitoku.ac.jp
 nerist.ac.in
 becbapatla.ac.in
 uic.ac.ma
+my.buu.ac.th
+doc.emi.edu.bo
+spulive.net
+bnca.ac.in
+uit.edu.mm
+knlu.edu.ua
+upsamail.edu.gh
+itc.edu.co
+uca.ac.ma
+stu.univ-saida.dz
