@@ -1010,13 +1010,9 @@ nub.edu.eg
 tanta.edu.eg
 pharm.bsu.edu.eg
 commerce.bsu.edu.eg
-modern-academy.edu.eg
 buc.edu.eg
 azhar.edu.eg
-o6u.edu.eg
-qaliobia4.moe.edu.eg
 sharkia1.moe.edu.eg
-alex2.moe.edu.eg
 fnur.bu.edu.eg
 behera1.moe.edu.eg
 art.dmu.edu.eg
@@ -1036,7 +1032,6 @@ student.eelu.edu.eg
 foe.zu.edu.eg
 fcom.bu.edu.eg
 eng.sohag.edu.eg
-s-mu.edu.eg
 miniauniv.edu.eg
 domazhermedicine.edu.eg
 el-eng.menofia.edu.eg
@@ -1060,7 +1055,6 @@ mail.ucv.es
 alumnos.uvigo.es
 mail.uca.es
 campus.eug.es
-live.uem.es
 educa.jcyl.es
 alum.uca.es
 amu.edu.et
@@ -1259,7 +1253,6 @@ rsu.edu.lv
 uot.edu.ly
 edu.uca.ma
 iga-marrakech.ma
-um5.ac.ma
 ofppt-edu.ma
 usms.ac.ma
 taalim.ma
@@ -1356,7 +1349,6 @@ istudent.unisel.edu.my
 365.um.edu.my
 students.nilai.edu.my
 usim.edu.my
-imail.sunway.edu.my
 isctem.ac.mz
 ucm.ac.mz
 ucm.ac.mz
@@ -1574,7 +1566,6 @@ student.iatc.edu.sa
 uhb.edu.sa
 hedaya.edu.sa
 qu.edu.sa
-kau.edu.sa
 upm.edu.sa
 kst.edu.sg
 student.tp.edu.sg
