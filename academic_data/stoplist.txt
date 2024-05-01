@@ -714,7 +714,6 @@ stlcc.edu
 stu.centralaz.edu
 stu.ctcd.edu
 student.carlalbert.edu
-cccs.edu
 student.citruscollege.edu
 student.cmccd.edu
 student.glendale.edu
