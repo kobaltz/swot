@@ -159,7 +159,6 @@ alumnos.utalca.cl
 usanandres.cl
 ahlg.ac.cn
 ahzyygz.edu.cn
-fudan.edu.cn
 aufe.edu.cn
 bbc.edu.cn
 bese.ac.cn
@@ -168,7 +167,6 @@ bit.edu.cn
 bitzh.edu.cn
 bjdx.ac.cn
 bjlg.ac.cn
-bjtu.edu.cn
 bnu.edu.cn
 bucea.edu.cn
 caa.edu.cn
@@ -195,7 +193,6 @@ gduf.edu.cn
 gydx.ac.cn
 gzhtcm.edu.cn
 gzhu.edu.cn
-hainanu.edu.cn
 hainu.edu.cn
 haust.edu.cn
 hbdx.ac.cn
@@ -211,7 +208,6 @@ huanghuai.edu.cn
 hubu.edu.cn
 hufe.edu.cn
 huse.edu.cn
-hust.edu.cn
 hznu.edu.cn
 imnu.edu.cn
 ipdbuu.com.cn
@@ -239,7 +235,6 @@ mail.nwpu.edu.cn
 mails.cust.edu.cn
 mails.hufe.edu.cn
 mails.imnu.edu.cn
-mail.sjtu.edu.cn
 mails.mmnnsf.cn
 mails.qust.edu.cn
 mail.sustc.edu.cn
@@ -277,8 +272,6 @@ shmtu.edu.cn
 shu.edu.cn
 sicau.edu.cn
 sit.edu.cn
-sjtu.edu.cn
-smail.nju.edu.cn
 snnu.edu.cn
 st.btbu.edu.cn
 std.uestc.edu.cn
@@ -286,7 +279,6 @@ st.sandau.edu.cn
 stu.ahu.edu.cn
 stu.ccsu.edu.cn
 stu.cpu.edu.cn
-stu.cqupt.edu.cn
 stu.cuz.edu.cn
 stud.acdt.edu.cn
 student.cumtb.edu.cn
@@ -333,12 +325,10 @@ ustb.edu.cn
 ustc.edu.cn
 vip.henu.edu.cn
 vip.hnist.edu.cn
-whu.edu.cn
 wust.edu.cn
 wxic.edu.cn
 wzu.edu.cn
 xbdx.ac.cn
-xidian.edu.cn
 xinfu.ac.cn
 xiyou.edu.cn
 xjdx.ac.cn
@@ -353,7 +343,6 @@ zcmu.edu.cn
 zjgsu.edu.cn
 zjnu.edu.cn
 zjsru.edu.cn
-zju.edu.cn
 zknu.edu.cn
 zucc.edu.cn
 zuel.edu.cn
@@ -370,7 +359,6 @@ masu.edu.cn
 cczu.edu.cn
 sdust.edu.cn
 nxmu.edu.cn
-sdu.edu.cn
 stu.cdut.edu.cn
 hsc.pku.edu.cn
 e.gzhu.edu.cn
@@ -478,7 +466,6 @@ pdsu.edu.cn
 vjrq.cn
 muc.edu.cn
 huas.edu.cn
-mail.sdu.edu.cn
 stu.sumhs.edu.cn
 tongji.edu.cn
 email.szu.edu.cn
@@ -1871,3 +1858,8 @@ bostonk12.org
 tsu.ac.th
 academicos.uamericas.cl
 utp.edu.br
+smail.nju.edu.cn
+zju.edu.cn
+stu.xidian.edu.cn
+whu.edu.cn
+hust.edu.cn
