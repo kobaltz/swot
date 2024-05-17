@@ -77,7 +77,7 @@ describe Swot do
     assert_not Swot::is_academic?('dave@case.edu')
     assert_not Swot::is_academic?('dave@uncp.edu.pe')
     assert_not Swot::is_academic?('dave@edu.azores.gov.pt')
-    assert_not Swot::is_academic?('dave@dyptc.edu.in')
+    assert Swot::is_academic?('dave@dyptc.edu.in')
     assert_not Swot::is_academic?('dave@mubs.ac.ug')
     assert Swot::is_academic?('dave@aluno.unip.br')
     assert_not Swot::is_academic?('dave@jmpaneracollege.com')
