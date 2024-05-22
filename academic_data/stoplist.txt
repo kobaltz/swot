@@ -304,7 +304,6 @@ s.upc.edu.cn
 swpu.edu.cn
 swu.edu.cn
 sxlg.ac.cn
-sz.pku.edu.cn
 tijmu.edu.cn
 tjdx.ac.cn
 tju.edu.cn
