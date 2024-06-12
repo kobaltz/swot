@@ -1799,3 +1799,9 @@ std.art.asu.edu.eg
 usmba.ac.ma
 asu.edu.eg
 students.clark.edu
+edu.ranepa.ru
+st.neu.edu.vn
+stu.ujn.edu.cn
+m.ldu.edu.cn
+g.seoultech.ac.kr
+bsu.edu.eg
