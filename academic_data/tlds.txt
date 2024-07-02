@@ -21,7 +21,6 @@ ac.zm
 ed.ao
 ed.cr
 ed.jp
-edu
 edu.al
 edu.ar
 edu.az
@@ -75,5 +74,3 @@ sch.om
 sch.ps
 sch.sa
 school.za
-vic.edu.au
-urfu.me
