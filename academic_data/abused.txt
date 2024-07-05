@@ -1,5 +1,4 @@
 365.cleu.edu.mx
-365.ntcu.edu.tw
 365.um.edu.my
 90888.cc
 aabu.edu.jo
@@ -15,7 +14,6 @@ academico.cesmac.edu.br
 academico.ifrn.edu.br
 academicos.uamericas.cl
 acarballeira.es
-ad1.nutc.edu.tw
 aealcochete.edu.pt
 aebpc.edu.pt
 aejuliodinis.edu.pt
@@ -37,7 +35,6 @@ alu.comillas.edu
 alu.frlp.utn.edu.ar
 alu.uap.edu.pe
 alum.bogazici.edu.tr
-alum.ccu.edu.tw
 alum.mit.edu
 alum.ubc.ca
 alum.uca.es
@@ -77,7 +74,6 @@ anc.ac.th
 anhembimorumbi.edu.br
 anu.edu.gh
 app
-apps.ntpc.edu.tw
 apus.edu
 archten.croydon.sch.uk
 art.dmu.edu.eg
@@ -146,17 +142,14 @@ campusvirtual.aunarvillavicencio.edu.co
 case.edu
 cassia.kku.ac.th
 cba.edu.kw
-cc.ntut.edu.tw
 cc.peralta.edu
 ccc.edu
 cccd.edu
 ccsf.edu
-ccu.edu.tw
 cet.edu
 ceuandalucia.es
 cf
 chasefreedomactivate.com
-chc.edu.tw
 chemeketa.edu
 chula.ac.th
 ci.suez.edu.eg
@@ -168,7 +161,6 @@ cit.edu
 cit.just.edu.jo
 clackamas.edu
 clatsopcc.edu
-cloud.isu.edu.tw
 cloudlearn.tech
 clpccd.edu
 cmich.edu
@@ -352,12 +344,10 @@ ghazanthemprep.org
 giant.cos.edu
 giki.edu.pk
 gndec.ac.in
-go.edu.tw
 go.minnstate.edu
 go.pasadena.edu
 go.shoreline.edu
 gq
-graduate.hku.hk
 green.ac.bd
 gtc.edu
 gtu.edu.tr
@@ -371,8 +361,6 @@ haramaya.edu.et
 harran.edu.tr
 hawkmail.hccfl.edu
 haywood.edu
-hc.edu.tw
-hcc.edu.tw
 hcc2.edu.vn
 hce.edu.vn
 hcmup.edu.vn
@@ -439,8 +427,6 @@ jic.edu.sa
 jmail.ac.kr
 jmpaneracollege.com
 just.edu.jo
-just.edu.tw
-k.kkk.ac.nz
 kafrelsheikh2.moe.edu.eg
 kashop.me
 kastamonu.edu.tr
@@ -492,12 +478,10 @@ liccsalsl.org
 lindenps.org
 live
 live.acibadem.edu.tr
-live.kmu.edu.tw
 live.ku.th
 live.mut.ac.za
 live.unilag.edu.ng
 live.vu.edu.au
-ljb.edu.hk
 lonestar.edu
 losrios.edu
 lpru.ac.th
@@ -514,13 +498,11 @@ mahasiswa.itb.ac.id
 mahidol.ac.th
 mail.0du.win
 mail.ac.id
-mail.aeust.edu.tw
 mail.au.edu.pk
 mail.baskent.edu.tr
 mail.broward.edu
 mail.davistech.edu
 mail.dream.edu.kg
-mail.edu.tw
 mail.escuelaing.edu.co
 mail.hrka.net
 mail.icmbs.sch.id
@@ -529,8 +511,6 @@ mail.lcc.edu
 mail.ltcc.edu
 mail.mss.sc.ug
 mail.mzr.me
-mail.ncyu.edu.tw
-mail.ntust.edu.tw
 mail.philau.edu
 mail.pima.edu
 mail.rmu.edu
@@ -548,9 +528,7 @@ mail.utec.edu.sv
 mail.vt.edu
 mail.wcccd.edu
 mail.wvncc.edu
-mail.ypu.edu.tw
 mail2.gantep.edu.tr
-mail4u.tnu.edu.tw
 maine.edu
 mancheopenschool.fr
 maranatha.edu
@@ -602,11 +580,9 @@ montgomerycollege.edu
 mpgu.edu
 mpsaz.org
 ms.daihocthudo.edu.vn
-ms.edu.tw
 ms.hanu.edu.vn
 ms.kbu.ac.th
 ms.uas.edu.mx
-ms1.mcu.edu.tw
 msjc.edu
 mskh.am
 mso365.ulp.pt
@@ -670,8 +646,6 @@ mziuri.edu.ge
 nacc.edu
 navarrocollege.edu
 ncc.edu
-nccu.edu.tw
-ncku.edu.tw
 ncr1.deped.gov.ph
 nerist.ac.in
 nes.edu.jo
@@ -689,7 +663,6 @@ northshore.edu
 nou.edu.np
 noun.edu.ng
 npi.edu
-ntnu.edu.tw
 nttu.edu.vn
 ntu.edu.pk
 nu.ac.th
@@ -700,28 +673,22 @@ nwacc.edu
 nwfsc.edu
 nwosu.edu
 o.cnu.ac.kr
-o365.cyut.edu.tw
 o365.msu.ac.th
 o365.rmutp.ac.th
 o365.tu.ac.kr
 o365.u-szeged.hu
 o365.unab.edu.co
-o365st.cycu.edu.tw
 obcnet.nl
 obszeester.nl
 occc.edu
 ocgs.edu.ph
 odessa.edu
-off365.ncku.edu.tw
 office.aefc.edu.pt
 office.bufs.ac.kr
 office.dongseo.ac.kr
 office.itb.ac.id
-office.stust.edu.tw
 office.ui.ac.id
 office.uos.ac.kr
-office365.ncu.edu.tw
-office365.nkust.edu.tw
 ofppt-edu.ma
 ogr.akdeniz.edu.tr
 ogr.alanya.edu.tr
@@ -784,7 +751,6 @@ posta.pau.edu.tr
 postgradoutp.edu.pe
 powerbi.edu.kg
 prc.ac.th
-profundity.com.tw
 projecao.edu.br
 provo.edu
 psm.edu.ve
@@ -837,7 +803,6 @@ sas-sd.net
 satit.buu.ac.th
 sau.edu.pk
 sbcc.edu
-sbccd.edu
 sbu.ac.ir
 sc.edu.my
 scc.stanly.edu
@@ -984,7 +949,6 @@ student.hiu.vn
 student.huc.edu.vn
 student.humg.edu.vn
 student.iatc.edu.sa
-student.isf.edu.hk
 student.istiqlal.sch.id
 student.kdupg.edu.my
 student.laccd.edu
@@ -1106,7 +1070,6 @@ thenyeripoly.ac.ke
 thpt-baria-brvt.edu.vn
 tk
 tnw.ac.th
-tp.edu.tw
 tranquillity.ee
 trenholmstate.edu
 tri-c.edu
@@ -1115,8 +1078,6 @@ tsu.ac.th
 tu.edu.vn
 tulsacc.edu
 tum.ac.ke
-tusur.ru
-tut.edu.tw
 tut4life.ac.za
 tutaunggyi.edu.mm
 tvtc.edu.sa
@@ -1181,7 +1142,6 @@ uj.edu.sa
 ul.edu.co
 ul.edu.lb
 ula.edu.mx
-ulive.pccu.edu.tw
 umbc.edu
 umc.br
 umkt.ac.id
@@ -1322,7 +1282,6 @@ xy.xujc.com
 ybu.edu.tr
 yc.edu
 yccd.edu
-ydu.edu.tw
 zanestate.edu
 ze-zha.com
 zetech.ac.ke
@@ -1333,3 +1292,7 @@ zjtcm.net
 zmail.unsw.edu.au
 zu.edu.jo
 jejunu.ac.kr
+studenti.uniroma1.it
+alumnos.uacj.mx
+sis.hust.edu.vn
+mnmjec.ac.in
