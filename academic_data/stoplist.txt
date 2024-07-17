@@ -48,7 +48,6 @@ cque.edu.cn
 csu.edu.cn
 ctgu.edu.cn
 cug.edu.cn
-cumt.edu.cn
 cumtb.edu.cn
 dhu.edu.cn
 dlut.edu.cn
@@ -352,7 +351,6 @@ alumni.msoe.edu
 alumni.ncyu.edu.tw
 alumni.nottingham.ac.uk
 alumni.npust.edu.tw
-alumni.pku.edu.cn
 alumni.sjtu.edu.cn
 alumni.ssst.edu.ba
 alumni.stanford.edu
