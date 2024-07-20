@@ -1296,3 +1296,9 @@ alumnos.uacj.mx
 sis.hust.edu.vn
 mnmjec.ac.in
 uniroma1.it
+aluno.uece.br
+economicas.uba.ar
+uma.es
+niu.edu.tw
+mu.edu.eg
+alu.uma.es
