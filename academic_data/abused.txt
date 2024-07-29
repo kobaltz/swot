@@ -43,7 +43,6 @@ alum.us.es
 alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
-alumno.udb.edu.sv
 alumno.udg.mx
 alumno.ujat.mx
 alumno.utesa.edu
