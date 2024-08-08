@@ -1299,3 +1299,4 @@ mu.edu.eg
 alu.uma.es
 helwan.edu.eg
 mymail.tstc.edu
+uzem.education
