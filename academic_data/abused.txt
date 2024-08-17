@@ -852,7 +852,7 @@ southwest.tn.edu
 soy.sena.edu.co
 spjain.org
 spobcollege.edu
-spokane.edu
+bigfoot.spokane.edu
 spscc.edu
 spulive.net
 sss-pv.edu.me
@@ -1115,7 +1115,6 @@ udla.edu.co
 udsu.ru
 ues.edu.sv
 uet.edu.pk
-ufabc.edu.br
 ufhec.edu.do
 ufide.ac.cr
 ufidelitas.ac.cr
@@ -1299,3 +1298,13 @@ alu.uma.es
 helwan.edu.eg
 mymail.tstc.edu
 uzem.education
+isbstudent.comsats.edu.pk
+ecampus.ut.ac.id
+unal.edu.co
+acu.edu.eg
+edison.k12.nj.us
+uman.edu.mx
+pucgo.edu.br
+student.mmu.edu.my
+faculdadebarretos.com.br
+correo.ugr.es
