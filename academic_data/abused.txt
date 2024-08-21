@@ -1081,7 +1081,6 @@ uac.edu.co
 uadec.edu.mx
 uaem.edu.mx
 uaf.edu.pk
-ualberta.ca
 uam.edu.co
 uam.edu.pa
 uanl.edu.mx
@@ -1109,7 +1108,6 @@ ucsm.edu.pe
 ucsy.edu.mm
 ucuenca.edu.ec
 udca.edu.co
-udec.cl
 udenar.edu.co
 udla.edu.co
 udsu.ru
@@ -1308,3 +1306,4 @@ pucgo.edu.br
 student.mmu.edu.my
 faculdadebarretos.com.br
 correo.ugr.es
+uwarsaw.edu.pl
