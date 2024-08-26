@@ -162,7 +162,6 @@ clackamas.edu
 clatsopcc.edu
 cloudlearn.tech
 clpccd.edu
-cmich.edu
 cmru.ac.th
 coastalbend.edu
 cochise.edu
@@ -459,7 +458,6 @@ kwiatek365.pl
 kyile.website
 lacitec.on.ca
 lamarpa.edu
-lau.edu
 lawsonstate.edu
 lbwcc.edu
 lcps.org
@@ -1307,3 +1305,4 @@ student.mmu.edu.my
 faculdadebarretos.com.br
 correo.ugr.es
 uwarsaw.edu.pl
+hj.ac.kr
