@@ -422,7 +422,6 @@ meduca.edu.pa
 umy.ac.id
 social.helwan.edu.eg
 alumni.uci.edu
-cau.ac.kr
 univ-dbkm.dz
 mail.rmutt.ac.th
 lsts.edu.vn
@@ -436,3 +435,4 @@ stu.xaau.edu.cn
 mails.cqjtu.edu.cn
 sol-du.ac.in
 alumni.esade.edu
+hawkeyecollege.edu

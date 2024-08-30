@@ -157,7 +157,6 @@ cientifica.edu.pe
 cihanuniversity.org
 cis.edu.eg
 cit.edu
-cit.just.edu.jo
 clackamas.edu
 clatsopcc.edu
 cloudlearn.tech
@@ -171,7 +170,6 @@ colc.co
 colegio-venecia.edu.mx
 colegio.univalle.edu
 colegiotorremalmuerta.es
-collegelacite.ca
 collin.edu
 colmayor.edu.co
 colostate.edu
@@ -339,7 +337,6 @@ georgetown.edu
 ghanacu.org
 ghazanthemprep.org
 giant.cos.edu
-giki.edu.pk
 gndec.ac.in
 go.minnstate.edu
 go.pasadena.edu
@@ -404,7 +401,6 @@ isik.edu.tr
 isise.edu.pe
 istudent.unisel.edu.my
 itb.edu.ec
-itc.ac.kr
 itc.edu.co
 itc.edu.khmoestudents.edu.kn
 itca.edu.sv
@@ -456,7 +452,6 @@ kthcm.edu.vn
 kuic.kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
-lacitec.on.ca
 lamarpa.edu
 lawsonstate.edu
 lbwcc.edu
@@ -502,7 +497,6 @@ mail.escuelaing.edu.co
 mail.hrka.net
 mail.icmbs.sch.id
 mail.irsc.edu
-mail.lcc.edu
 mail.ltcc.edu
 mail.mss.sc.ug
 mail.mzr.me
@@ -850,7 +844,6 @@ southwest.tn.edu
 soy.sena.edu.co
 spjain.org
 spobcollege.edu
-bigfoot.spokane.edu
 spscc.edu
 spulive.net
 sss-pv.edu.me
@@ -879,7 +872,6 @@ std.kyu.ac.ug
 std.neu.edu.tr
 std.nisantasi.edu.tr
 std.yildiz.edu.tr
-sti.edu.ph
 stlcc.edu
 stmail.tanenbaumchat.org
 stonabemowie.edu.pl
@@ -911,7 +903,6 @@ stu.uob.edu.bh
 stud.iuav.it
 stud.ur.ac.rw
 stud.ur.edu.pl
-student.alamo.edu
 student.angelina.edu
 student.annauniv.edu
 student.bahria.edu.pk
@@ -1306,3 +1297,4 @@ faculdadebarretos.com.br
 correo.ugr.es
 uwarsaw.edu.pl
 hj.ac.kr
+cau.ac.kr
