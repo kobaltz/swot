@@ -75,7 +75,7 @@ anu.edu.gh
 app
 apus.edu
 archten.croydon.sch.uk
-art.dmu.edu.eg
+dmu.edu.eg
 asoiu.edu.az
 asu.edu.eg
 ataa.sch.sa
@@ -344,7 +344,6 @@ go.shoreline.edu
 gq
 green.ac.bd
 gtc.edu
-gtu.edu.tr
 gulfuniversity.edu.bh
 gumed.edu.pl
 guru.sd.belajar.id
@@ -1233,7 +1232,6 @@ vanlanguni.vn
 vcccd.edu
 vccs.edu
 vctx.edu
-vetmed.dmu.edu.eg
 vict.edu.ht
 vief.edu.vn
 vikings.grayson.edu
@@ -1297,3 +1295,8 @@ correo.ugr.es
 uwarsaw.edu.pl
 hj.ac.kr
 cau.ac.kr
+aluno.newtonpaiva.br
+geu.ac.in
+aluno.uniasselvi.com.br
+sandiego.edu
+tepeaca.tecnm.mx

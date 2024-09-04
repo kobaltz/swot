@@ -436,3 +436,6 @@ mails.cqjtu.edu.cn
 sol-du.ac.in
 alumni.esade.edu
 hawkeyecollege.edu
+sesgs.sckr.si
+agr.dmu.edu.eg
+ahyz.edu.cn
