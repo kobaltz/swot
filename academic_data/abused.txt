@@ -180,7 +180,6 @@ comunidad.unam.mx
 comunidadort.edu.ar
 conalep.edu.mx
 conalepmex.edu.mx
-conncoll.edu
 continental.edu.pe
 converse.edu
 correo.icesi.edu.co
@@ -339,7 +338,6 @@ ghazanthemprep.org
 giant.cos.edu
 gndec.ac.in
 go.minnstate.edu
-go.pasadena.edu
 go.shoreline.edu
 gq
 green.ac.bd
@@ -953,7 +951,6 @@ student.nocccd.edu
 student.northampton.edu
 student.nust.edu.pk
 student.oaklandcc.edu
-student.ohlone.edu
 student.olympic.edu
 student.owens.edu
 student.prasetiyamulya.ac.id
@@ -1106,7 +1103,6 @@ ufidelitas.ac.cr
 ufromail.cl
 ufuk.edu.tr
 ug.edu.ec
-ug.edu.ge
 ugm.ac.id
 ugto.mx
 uh.edu
@@ -1120,11 +1116,9 @@ uj.edu.sa
 ul.edu.co
 ul.edu.lb
 ula.edu.mx
-umbc.edu
 umc.br
 umkt.ac.id
 umm.edu.mx
-umn.edu
 ump.edu.my
 umsida.ac.id
 unach.edu.ec
@@ -1201,7 +1195,6 @@ usanandres.cl
 usg.edu
 usil.pe
 usim.edu.my
-usiu.ac.ke
 usmba.ac.ma
 usmp.pe
 usms.ac.ma
@@ -1300,3 +1293,4 @@ geu.ac.in
 aluno.uniasselvi.com.br
 sandiego.edu
 tepeaca.tecnm.mx
+tukorea.ac.kr
