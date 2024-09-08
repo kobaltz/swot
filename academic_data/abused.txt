@@ -143,7 +143,6 @@ cassia.kku.ac.th
 cba.edu.kw
 cc.peralta.edu
 ccc.edu
-cccd.edu
 ccsf.edu
 cet.edu
 ceuandalucia.es
@@ -524,7 +523,6 @@ marun.edu.tr
 mas.bg.ac.rs
 matc.edu
 mbz.ens.sch.ae
-mcast.edu.mt
 mccann.edu
 mccc.edu
 mcl.edu.ph
@@ -1294,3 +1292,4 @@ aluno.uniasselvi.com.br
 sandiego.edu
 tepeaca.tecnm.mx
 tukorea.ac.kr
+ises.com.br

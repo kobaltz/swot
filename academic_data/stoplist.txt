@@ -357,6 +357,8 @@ alumni.vcu.edu
 alumni.virginia.edu
 alumni.zstu.edu.cn
 alumni365.dmu.ac.uk
+alumni.undip.ac.id
+office.undip.ac.id
 mdu.edu.rs
 nfs.edu.rs
 aaedu.edu.pl
