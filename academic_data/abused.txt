@@ -412,7 +412,6 @@ iwcc.edu
 jcjc.edu
 jfn.ac.lk
 jic.edu.sa
-jmail.ac.kr
 jmpaneracollege.com
 just.edu.jo
 kafrelsheikh2.moe.edu.eg
@@ -514,7 +513,6 @@ mail.vt.edu
 mail.wcccd.edu
 mail.wvncc.edu
 mail2.gantep.edu.tr
-maine.edu
 mancheopenschool.fr
 maranatha.edu
 maricopa.edu
@@ -1085,7 +1083,6 @@ ucr.ac.cr
 ucs.br
 ucsc.edu
 ucsdawei.edu.mm
-ucsiuniversity.edu.my
 ucsm.edu.pe
 ucsy.edu.mm
 ucuenca.edu.ec
