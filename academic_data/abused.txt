@@ -1019,7 +1019,6 @@ subr.edu
 subu.edu.tr
 suez.edu.eg
 sunydutchess.edu
-sunywcc.edu
 sus.edu
 sust.edu
 sv.hotec.edu.vn
