@@ -72,7 +72,6 @@ anahuac.mx
 anc.ac.th
 anhembimorumbi.edu.br
 anu.edu.gh
-app
 apus.edu
 archten.croydon.sch.uk
 dmu.edu.eg
@@ -171,7 +170,6 @@ colegio.univalle.edu
 colegiotorremalmuerta.es
 collin.edu
 colmayor.edu.co
-colostate.edu
 com.edu
 commanderijcollege.nl
 commerce.bsu.edu.eg
@@ -327,8 +325,6 @@ g.batstate-u.edu.ph
 g.hongik.ac.kr
 g.seoultech.ac.kr
 g.tu.ac.kr
-ga
-gagpk.ru
 gcsurat.gujgov.edu.in
 gemselearning.com
 georgetown.edu
@@ -1080,7 +1076,6 @@ ucm.ac.mz
 ucp.edu.pk
 ucr.ac.cr
 ucs.br
-ucsc.edu
 ucsdawei.edu.mm
 ucsm.edu.pe
 ucsy.edu.mm
@@ -1289,3 +1284,21 @@ sandiego.edu
 tepeaca.tecnm.mx
 tukorea.ac.kr
 ises.com.br
+student.concordia.ab.ca
+chosun.ac.kr
+usonsonate.edu.sv
+educastur.es
+est.intec.edu.do
+comunidad.iush.edu.co
+web.gcu.edu.pk
+stu.itc.edu.vn
+fci.bu.edu.eg
+live.iium.edu.my
+baraodemaua.edu.br
+live.gctu.edu.gh
+jnu.ac.kr
+aou.edu.om
+stu.smiu.edu.pk
+st.tvu.edu.vn
+mokwon.ac.kr
+alumni.esade.edu

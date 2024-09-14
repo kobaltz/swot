@@ -436,7 +436,6 @@ xhu.edu.cn
 stu.xaau.edu.cn
 mails.cqjtu.edu.cn
 sol-du.ac.in
-alumni.esade.edu
 hawkeyecollege.edu
 sesgs.sckr.si
 agr.dmu.edu.eg
@@ -444,3 +443,18 @@ ahyz.edu.cn
 lvu.edu.vn
 npcmstsfc.com
 umbc.edu
+alumni.stcl.edu
+csa.concordia.ab.ca
+metodista.br
+ga
+gagpk.ru
+iskolarngbayan.pup.edu.ph
+app
+365.stucom.com
+shct.edu.om
+mapscollege.edu.mv
+tkc.edu
+itsqmet.edu.ec
+st.tvu.edu.vn
+jpu.edu.jo
+365.cute.edu.tw

@@ -32,7 +32,6 @@ edu.cn
 edu.dz
 edu.ee
 edu.er
-edu.gh
 edu.hk
 edu.hn
 edu.in
