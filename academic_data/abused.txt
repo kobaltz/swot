@@ -143,7 +143,6 @@ cba.edu.kw
 cc.peralta.edu
 ccc.edu
 ccsf.edu
-cet.edu
 ceuandalucia.es
 cf
 chasefreedomactivate.com
@@ -674,7 +673,7 @@ ogr.cbu.edu.tr
 ogr.cu.edu.tr
 ogr.deu.edu.tr
 ogr.duzce.edu.tr
-ogr.iu.edu.tr
+iu.edu.tr
 ogr.kent.edu.tr
 ogr.ktu.edu.tr
 ogr.sakarya.edu.tr
@@ -1273,7 +1272,6 @@ uman.edu.mx
 pucgo.edu.br
 student.mmu.edu.my
 faculdadebarretos.com.br
-correo.ugr.es
 uwarsaw.edu.pl
 hj.ac.kr
 cau.ac.kr
@@ -1302,3 +1300,13 @@ stu.smiu.edu.pk
 st.tvu.edu.vn
 mokwon.ac.kr
 alumni.esade.edu
+estudiantes.uv.mx
+alumno.uaemex.mx
+stud.num.edu.mn
+upnet.gr
+mail.udes.edu.co
+esrpeixoto.edu.pt
+vu.edu.bd
+uttcampus.edu.mx
+alunos.unifbv.edu.br
+zu.edu.eg
