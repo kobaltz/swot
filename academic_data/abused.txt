@@ -200,7 +200,6 @@ cuiatd.edu.pk
 cuu.ac.ug
 cwru.edu
 daihocyhanoi.edu.vn
-dartmouth.edu
 davidsonccc.edu
 daytonastate.edu
 dcic.me
@@ -371,7 +370,6 @@ icamtech.com
 icc.edu
 ictu.edu.vn
 icu-edu.org
-idat.edu.pe
 iesdelatuel.edu.ar
 iga-marrakech.ma
 iluv.ums.edu.my
@@ -1022,7 +1020,6 @@ svkmmumbai.onmicrosoft.com
 swccd.edu
 t.edu.vn
 taalim.ma
-tacomacc.edu
 tamu.edu
 tau.usbmed.edu.co
 tbr.edu
@@ -1310,3 +1307,4 @@ vu.edu.bd
 uttcampus.edu.mx
 alunos.unifbv.edu.br
 zu.edu.eg
+utyac.onmicrosoft.com
