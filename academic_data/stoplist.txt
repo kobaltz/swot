@@ -355,7 +355,6 @@ alumni.uniba.it
 alumni.upenn.edu
 alumni.vcu.edu
 alumni.virginia.edu
-alumni.zstu.edu.cn
 alumni365.dmu.ac.uk
 alumni.undip.ac.id
 office.undip.ac.id
@@ -421,7 +420,6 @@ unswalumni.com
 ayushkids.edu.in
 usx.edu.cn
 meduca.edu.pa
-umy.ac.id
 social.helwan.edu.eg
 alumni.uci.edu
 univ-dbkm.dz
@@ -463,3 +461,17 @@ stu.bayburt.edu.tr
 alumni.rice.edu
 cet.edu
 innopolis.university
+shu.edu.tw
+mkhb.moe.gov.sa
+horizoncc.co.uk
+p4ed.com
+cantho.edu.vn
+caugiay.edu.vn
+umak.edu.ph
+normaljujuy.edu.ar
+posgrado.unp.edu.pe
+presbiteriano.g12.br
+psu.palawan.edu.ph
+kellerisd.com
+office.knu.ac.kr
+azeri.edu.az
