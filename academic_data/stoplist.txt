@@ -364,7 +364,6 @@ aaedu.edu.pl
 k.tut.edu.pl
 lxiv.secondary.edu.pl
 wstkt.edu.pl
-my.tccd.edu
 mfk.app
 aof.anadolu.edu.tr
 art.edu.lv
@@ -475,3 +474,9 @@ psu.palawan.edu.ph
 kellerisd.com
 office.knu.ac.kr
 azeri.edu.az
+mdis.uz
+ms.srru.ac.th
+icprjc.edu
+student.guhsdaz.org
+o365.prz.edu.pl
+ind.suezuni.edu.eg
