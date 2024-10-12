@@ -506,3 +506,9 @@ m365.nycu.edu.tw
 stu.cqupt.edu.cn
 stu.templejc.edu
 stu.ahbvc.edu.cn
+o365.nuu.edu.tw
+o365.ntou.edu.tw
+chntheatre.edu.cn
+email.cufe.edu.cn
+mail.szpu.edu.cn
+alumni.bentley.edu

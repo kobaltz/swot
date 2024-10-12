@@ -1071,7 +1071,6 @@ udca.edu.co
 udenar.edu.co
 udla.edu.co
 udsu.ru
-ues.edu.sv
 uet.edu.pk
 ufhec.edu.do
 ufide.ac.cr
@@ -1321,3 +1320,7 @@ bcsdschools.net
 smail.kongju.ac.kr
 yu.ac.kr
 henricostudents.org
+htu.edu.jo
+seu.edu.cn
+unsaac.edu.pe
+talento.tls.edu.pe
