@@ -405,7 +405,6 @@ jmpaneracollege.com
 just.edu.jo
 kafrelsheikh2.moe.edu.eg
 kashop.me
-kastamonu.edu.tr
 kbtc.edu.mm
 kbtut.tj
 kg.edu.kg
@@ -1085,7 +1084,6 @@ uin-alauddin.ac.id
 uin-suka.ac.id
 uiot.ac.ug
 uit.edu.mm
-uj.edu.sa
 ul.edu.co
 ul.edu.lb
 umc.br
@@ -1324,3 +1322,4 @@ htu.edu.jo
 seu.edu.cn
 unsaac.edu.pe
 talento.tls.edu.pe
+wsfcsstudents.net
