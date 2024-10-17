@@ -1,3 +1,4 @@
+id.ac
 2011.cqut.edu.cn
 2012.cqut.edu.cn
 2013.cqut.edu.cn
@@ -326,6 +327,7 @@ zknu.edu.cn
 zucc.edu.cn
 zuel.edu.cn
 zut.edu.cn
+alum.utoronto.ca
 alumni.albany.edu
 alumni.anu.edu.au
 alumni.bham.ac.uk
@@ -512,3 +514,7 @@ chntheatre.edu.cn
 email.cufe.edu.cn
 mail.szpu.edu.cn
 alumni.bentley.edu
+altoona.k12.wi.us
+wauwatosa.k12.wi.us
+as.edu.sa
+kgu.ac.kr

@@ -40,7 +40,6 @@ alum.ubc.ca
 alum.uca.es
 alum.urmc.rochester.edu
 alum.us.es
-alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
 alumno.udg.mx
@@ -433,6 +432,7 @@ kst.edu.sg
 ksu.edu.bi
 kthcm.edu.vn
 kuic.kyonggi.ac.kr
+kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
 lamarpa.edu
@@ -1323,3 +1323,8 @@ seu.edu.cn
 unsaac.edu.pe
 talento.tls.edu.pe
 wsfcsstudents.net
+student.lnu.se
+itstep.edu.az
+ks.ac.kr
+apps.nsd.org
+myu.universitecentrale.tn
