@@ -1147,7 +1147,6 @@ uotago.ac.nz
 uowm.gr
 up.ac.pa
 up.ac.th
-upana.edu.gt
 upb.edu.co
 upd.edu.ph
 upeu.edu.pe
@@ -1182,7 +1181,6 @@ utg.edu.gm
 utmachala.edu.ec
 utn.edu.mx
 utp.edu.br
-utp.edu.co
 uts.edu.co
 uts.edu.ve
 uttab.edu.mx
@@ -1328,3 +1326,5 @@ itstep.edu.az
 ks.ac.kr
 apps.nsd.org
 myu.universitecentrale.tn
+umbc.edu
+mail.fresnostate.edu

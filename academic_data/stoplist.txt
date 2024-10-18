@@ -440,7 +440,6 @@ agr.dmu.edu.eg
 ahyz.edu.cn
 lvu.edu.vn
 npcmstsfc.com
-umbc.edu
 alumni.stcl.edu
 csa.concordia.ab.ca
 metodista.br
@@ -493,7 +492,6 @@ atc.edu
 bu.edu.eg
 swmich.edu
 student.ssc.edu
-mail.fresnostate.edu
 wcstudents.wc.edu
 my.lsco.edu
 student.alvincollege.edu
