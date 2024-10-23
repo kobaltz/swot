@@ -227,7 +227,6 @@ eaglesvale.ac.zw
 eap.gr
 eastafricauniversity.net
 ebimal.edu.ar
-ecam.fr
 eco.maranatha.edu
 ecu.edu.eg
 edu.arh.bg.ac.rs
@@ -633,7 +632,6 @@ nttu.edu.vn
 ntu.edu.pk
 nu.ac.th
 nube.unadmexico.mx
-nur.edu.bo
 nvsu.edu.ph
 nwacc.edu
 nwfsc.edu
@@ -656,7 +654,7 @@ office.itb.ac.id
 office.ui.ac.id
 office.uos.ac.kr
 ofppt-edu.ma
-ogr.akdeniz.edu.tr
+akdeniz.edu.tr
 ogr.alanya.edu.tr
 ogr.altinbas.edu.tr
 ogr.atauni.edu.tr
@@ -1328,3 +1326,10 @@ apps.nsd.org
 myu.universitecentrale.tn
 umbc.edu
 mail.fresnostate.edu
+sanluis.edu.ar
+bup.edu.bd
+o365.yonsei.ac.kr
+ubt-uni.net
+correo.tdea.edu.co
+st.uskudar.edu.tr
+stu.templejc.edu

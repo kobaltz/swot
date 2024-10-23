@@ -504,7 +504,6 @@ mails.cqjtu.edu.cn
 alumni.cuhk.net
 m365.nycu.edu.tw
 stu.cqupt.edu.cn
-stu.templejc.edu
 stu.ahbvc.edu.cn
 o365.nuu.edu.tw
 o365.ntou.edu.tw
@@ -516,3 +515,5 @@ altoona.k12.wi.us
 wauwatosa.k12.wi.us
 as.edu.sa
 kgu.ac.kr
+lanesville.k12.in.us
+student.umc.edu.dz

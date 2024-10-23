@@ -21,7 +21,6 @@ ed.ao
 ed.cr
 ed.jp
 edu.al
-edu.ar
 edu.az
 edu.bb
 edu.bd
