@@ -517,3 +517,4 @@ as.edu.sa
 kgu.ac.kr
 lanesville.k12.in.us
 student.umc.edu.dz
+edu.menofia.edu.eg
