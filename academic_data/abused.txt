@@ -429,7 +429,6 @@ kps.edu.pk
 kst.edu.sg
 ksu.edu.bi
 kthcm.edu.vn
-kuic.kyonggi.ac.kr
 kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
@@ -1332,3 +1331,4 @@ ubt-uni.net
 correo.tdea.edu.co
 st.uskudar.edu.tr
 stu.templejc.edu
+senati.pe
