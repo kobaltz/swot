@@ -1332,3 +1332,10 @@ correo.tdea.edu.co
 st.uskudar.edu.tr
 stu.templejc.edu
 senati.pe
+hufs.ac.kr
+ucad.edu.sn
+stud.cu.edu.eg
+student.kyungnam.ac.kr
+office.ysc.ac.kr
+univ-ghardaia.dz
+zapopan.tecmm.edu.mx
