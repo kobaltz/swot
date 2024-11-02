@@ -23,7 +23,6 @@ ed.jp
 edu.al
 edu.az
 edu.bb
-edu.bd
 edu.bh
 edu.bs
 edu.bz
