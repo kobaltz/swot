@@ -455,7 +455,6 @@ itsqmet.edu.ec
 st.tvu.edu.vn
 jpu.edu.jo
 365.cute.edu.tw
-mokwon.ac.kr
 stu.bayburt.edu.tr
 alumni.rice.edu
 cet.edu
@@ -538,3 +537,19 @@ mail.ntou.edu.tw
 scu.edu.tw
 learner.hkuspace.hku.hk
 student.haywood.k12.nc.us
+hendrix.edu
+psu.edu
+bau.edu.jo
+cantho.edu.vn
+2trom.com
+bannsai.com
+office.ptu.ac.kr
+sgs.edu.co
+uettaxila.edu.pk
+dent.tanta.edu.eg
+huttoisd.org
+skhhcps.edu.hk
+ae1odemira.edu.pt
+uno-r.edu.ph
+uib.edu
+sonoranschools.org
