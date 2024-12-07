@@ -122,7 +122,6 @@ buc.blinn.edu
 buc.edu.eg
 byu.net
 c3chuvanan.edu.vn
-caa.columbia.edu
 cacc.edu
 caccmail.cacc.edu
 calamba.sti.edu.ph
@@ -316,11 +315,9 @@ fvcc.edu
 fwu.edu.np
 batstate-u.edu.ph
 g.hongik.ac.kr
-g.seoultech.ac.kr
 g.tu.ac.kr
 gcsurat.gujgov.edu.in
 gemselearning.com
-georgetown.edu
 ghanacu.org
 ghazanthemprep.org
 giant.cos.edu
@@ -463,7 +460,6 @@ lumstu.com
 mabankisd.net
 mackenzista.com.br
 madina.ac.ma
-madisoncollege.edu
 mahasiswa.itb.ac.id
 mahidol.ac.th
 mail.0du.win
@@ -541,7 +537,6 @@ moe.edu.kn
 moej.edu.jo
 mohawkcollege.ca
 monroecc.edu
-montgomerycollege.edu
 mpgu.edu
 mpsaz.org
 ms.daihocthudo.edu.vn
@@ -635,7 +630,6 @@ nwacc.edu
 nwfsc.edu
 nwosu.edu
 o.cnu.ac.kr
-o365.msu.ac.th
 o365.rmutp.ac.th
 o365.tu.ac.kr
 o365.u-szeged.hu
@@ -964,7 +958,7 @@ student.wallacestate.edu
 student.whatcom.edu
 studenti.poliba.it
 students.cccti.edu
-students.clark.edu
+clark.edu
 students.fui.edu.pk
 students.gov.ge
 students.highline.edu
@@ -1141,7 +1135,6 @@ up.ac.pa
 up.ac.th
 upb.edu.co
 upd.edu.ph
-upeu.edu.pe
 uph.edu
 upm.edu.sa
 upn.pe
@@ -1417,3 +1410,16 @@ csi.edu.eg
 kongju.ac.kr
 virtual.ceipa.edu.co
 binus.ac.id
+utp.edu.pe
+ms.upla.edu.pe
+upm.es
+udn.vn
+sgu.edu.vn
+rupp.edu.kh
+philadelphia.edu.jo
+sempreuninassau.com.br
+pup.edu.ph
+upes.ac.in
+eelu.edu.eg
+kookmin.kr
+kdis.ac.kr

@@ -242,7 +242,6 @@ stu.scu.edu.cn
 stu.sdnu.edu.cn
 stu.shzu.edu.cn
 stu.sicnu.edu.cn
-stu.sisu.edu.cn
 stu.sqmc.edu.cn
 stu.sqxy.edu.cn
 stu.sumhs.edu.cn
@@ -557,3 +556,17 @@ hanma.kr
 stu.kmu.edu.tr
 alumni.ied.edu
 office.yonam.ac.kr
+alu.xpu.edu.cn
+zjut.edu.cn
+o365.msu.ac.th
+g.seoultech.ac.kr
+sisu.edu.cn
+gatewaycollege.lk
+kalama.k12.wa.us
+stu.nthurston.k12.wa.us
+ipe.buet.ac.bd
+caa.columbia.edu
+itc.edu.kh
+o365.lhu.edu.tw
+itc.ac.kr
+stu.cute.edu.tw
