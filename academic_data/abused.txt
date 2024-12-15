@@ -227,7 +227,6 @@ eap.gr
 eastafricauniversity.net
 ebimal.edu.ar
 eco.maranatha.edu
-ecu.edu.eg
 edu.arh.bg.ac.rs
 edu.azores.gov.pt
 edu.cdsj6.edu.mo
@@ -329,7 +328,7 @@ green.ac.bd
 gtc.edu
 gulfuniversity.edu.bh
 gumed.edu.pl
-guru.sd.belajar.id
+belajar.id
 hacc.edu
 haiphong.itrithuc.vn
 hanoi.itrithuc.vn
@@ -1423,3 +1422,4 @@ upes.ac.in
 eelu.edu.eg
 kookmin.kr
 kdis.ac.kr
+kfs.edu.eg

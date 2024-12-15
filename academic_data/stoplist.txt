@@ -431,7 +431,6 @@ sxdtdx.edu.cn
 alu.gxu.edu.cn
 xhu.edu.cn
 stu.xaau.edu.cn
-mails.cqjtu.edu.cn
 sol-du.ac.in
 hawkeyecollege.edu
 sesgs.sckr.si
@@ -570,3 +569,4 @@ itc.edu.kh
 o365.lhu.edu.tw
 itc.ac.kr
 stu.cute.edu.tw
+edu.kfs.edu.eg
