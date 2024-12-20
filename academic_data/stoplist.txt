@@ -537,7 +537,6 @@ learner.hkuspace.hku.hk
 student.haywood.k12.nc.us
 hendrix.edu
 psu.edu
-bau.edu.jo
 cantho.edu.vn
 2trom.com
 bannsai.com
@@ -570,3 +569,9 @@ o365.lhu.edu.tw
 itc.ac.kr
 stu.cute.edu.tw
 edu.kfs.edu.eg
+365.ghu.ac.kr
+m365.nycu.edu.tw
+languagesystems.edu
+sagrado.edu
+office.kaya.ac.kr
+bh.knu.ac.kr
