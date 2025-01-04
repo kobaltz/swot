@@ -1380,7 +1380,7 @@ daegu.ac.kr
 alumnos.cecyteg.edu.mx
 koreatech.ac.kr
 usal.es
-u.tsukuba.ac.jp
+tsukuba.ac.jp
 unsaac.edu.pe
 yrdsb.ca
 estudante.ifb.edu.br
@@ -1427,3 +1427,7 @@ iuh.edu.vn
 nu.edu.eg
 bau.edu.jo
 knu.ac.kr
+ump.edu.vn
+kimpo.ac.kr
+insat.u-carthage.tn
+issatm.u-carthage.tn
