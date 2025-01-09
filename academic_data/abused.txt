@@ -497,7 +497,6 @@ mancheopenschool.fr
 maranatha.edu
 maricopa.edu
 martinmethodist.edu
-marun.edu.tr
 mas.bg.ac.rs
 matc.edu
 mbz.ens.sch.ae
@@ -672,7 +671,6 @@ oshs.edu.ba
 otp39.ru
 owls.williamwoods.edu
 paaet.edu.kw
-pace.edu
 palermo.edu
 palloimre.ro
 palomar.edu
@@ -1431,3 +1429,9 @@ ump.edu.vn
 kimpo.ac.kr
 insat.u-carthage.tn
 issatm.u-carthage.tn
+utc.edu.vn
+stu.kmu.edu.tr
+kmu.edu.tr
+psu.edu
+bu.edu.eg
+sookmyung.ac.kr

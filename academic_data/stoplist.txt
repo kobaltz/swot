@@ -486,7 +486,6 @@ hyejeon.ac.kr
 gcu.ac.kr
 ube.edu.ec
 atc.edu
-bu.edu.eg
 swmich.edu
 student.ssc.edu
 wcstudents.wc.edu
@@ -536,7 +535,6 @@ scu.edu.tw
 learner.hkuspace.hku.hk
 student.haywood.k12.nc.us
 hendrix.edu
-psu.edu
 cantho.edu.vn
 2trom.com
 bannsai.com
@@ -551,7 +549,6 @@ uno-r.edu.ph
 uib.edu
 sonoranschools.org
 hanma.kr
-stu.kmu.edu.tr
 alumni.ied.edu
 office.yonam.ac.kr
 alu.xpu.edu.cn
