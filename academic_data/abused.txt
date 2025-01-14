@@ -652,7 +652,6 @@ ogr.cbu.edu.tr
 ogr.cu.edu.tr
 ogr.deu.edu.tr
 ogr.duzce.edu.tr
-iu.edu.tr
 ogr.kent.edu.tr
 ogr.ktu.edu.tr
 ogr.sakarya.edu.tr
@@ -1435,3 +1434,7 @@ kmu.edu.tr
 psu.edu
 bu.edu.eg
 sookmyung.ac.kr
+hawkeyecollege.edu
+jwu.ac.kr
+kmu.ac.kr
+g.shingu.ac.kr
