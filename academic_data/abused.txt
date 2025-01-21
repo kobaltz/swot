@@ -217,7 +217,6 @@ aims.edu
 aiub.edu
 alabama.edu
 alu.comillas.edu
-alum.urmc.rochester.edu
 alumni.esade.edu
 alumno.utesa.edu
 america.edu
@@ -528,7 +527,6 @@ uzem.education
 tranquillity.ee
 acu.edu.eg
 agri.aru.edu.eg
-aiet.edu.eg
 aiu.edu.eg
 akhbaracademy.edu.eg
 alex3.moe.edu.eg
