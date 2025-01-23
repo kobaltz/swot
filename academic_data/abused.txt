@@ -734,7 +734,6 @@ students.mu.ac.ke
 thenyeripoly.ac.ke
 tum.ac.ke
 zetech.ac.ke
-aik.edu.kg
 bgu.edu.kg
 cu.edu.kg
 freenet.kg

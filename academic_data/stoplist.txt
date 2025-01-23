@@ -600,3 +600,6 @@ mail.0du.win
 alum.urmc.rochester.edu
 fast.edu.pl
 hcdsol.tech
+aik.edu.kg
+tcdsb.ca
+emds.edu.pt
