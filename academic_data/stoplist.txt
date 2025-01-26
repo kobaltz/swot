@@ -605,3 +605,4 @@ emds.edu.pt
 australia.edu
 america.edu
 cpu.edu.kg
+neu.edu.kg
