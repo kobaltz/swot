@@ -67,7 +67,6 @@ ddsbstudent.ca
 lethbridgecollege.ca
 mohawkcollege.ca
 my.centennialcollege.ca
-myseneca.ca
 share.epsb.ca
 slc.ubc.ca
 student.concordia.ab.ca
@@ -109,7 +108,6 @@ libertadores.edu.co
 mail.escuelaing.edu.co
 mail.udes.edu.co
 o365.unab.edu.co
-poligran.edu.co
 soy.sena.edu.co
 tau.usbmed.edu.co
 tecnocomfenalco.edu.co
@@ -508,7 +506,6 @@ vctx.edu
 vikings.grayson.edu
 volmail.jalc.edu
 wallace.edu
-wayne.edu
 webdmc.delmar.edu
 wesleyan.edu
 whitecaps.gc.edu
