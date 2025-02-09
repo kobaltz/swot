@@ -299,7 +299,6 @@ knights.ucf.edu
 lamarpa.edu
 lawsonstate.edu
 lbwcc.edu
-liberty.edu
 library.arizona.edu
 library.harvard.edu
 library.osu.edu
@@ -1336,3 +1335,4 @@ ptu.ac.kr
 est.emi.edu.bo
 usp.ac.fj
 me
+dit.ac.kr
