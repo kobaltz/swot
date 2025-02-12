@@ -170,7 +170,6 @@ ufidelitas.ac.cr
 student.unicv.edu.cv
 schools.ac.cy
 st.schools.ac.cy
-fh-muenster.de
 est.intec.edu.do
 est.itsc.edu.do
 est.uasd.edu.do
@@ -491,7 +490,6 @@ tulsacc.edu
 umail.utah.edu
 umbc.edu
 une.edu
-unitec.edu
 univalle.edu
 uph.edu
 urgrad.rochester.edu
@@ -1336,3 +1334,12 @@ est.emi.edu.bo
 usp.ac.fj
 me
 dit.ac.kr
+smapertiwi.sch.id
+stu.clcillinois.edu
+srkrec.ac.in
+stu.upes.ac.in
+keical.edu.in
+iimv.ac.in
+kct.ac.in
+dit.edu.in
+indiraiimp.edu.in
