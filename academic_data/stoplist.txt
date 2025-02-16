@@ -442,7 +442,6 @@ csa.concordia.ab.ca
 metodista.br
 ga
 gagpk.ru
-iskolarngbayan.pup.edu.ph
 app
 365.stucom.com
 shct.edu.om
@@ -640,3 +639,7 @@ tss.edu.kg
 aa.edu.kg
 pccinternational.org
 c5.hk
+alumni.ncu.edu.tw
+smkmuhkarangmojo.com
+aimu.edu.kg
+poornima.ac.in
