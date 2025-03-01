@@ -5,7 +5,6 @@ ac.gn
 ac.il
 ac.jp
 ac.me
-ac.mw
 ac.ni
 ac.om
 ac.pg

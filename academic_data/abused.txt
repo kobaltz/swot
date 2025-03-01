@@ -125,7 +125,6 @@ unipacifico.edu.co
 unipamplona.edu.co
 unisalle.edu.co
 unisinu.edu.co
-universidadean.edu.co
 upb.edu.co
 upn.edu.co
 ustabuca.edu.co
@@ -1346,3 +1345,6 @@ uptc.edu.co
 bu.ac.kr
 niet.co.in
 kmitl.ac.th
+ksiu.edu.eg
+msgsu.edu.tr
+luanar.ac.mw
