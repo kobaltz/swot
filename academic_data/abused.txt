@@ -40,6 +40,7 @@ oshs.edu.ba
 bup.edu.bd
 green.ac.bd
 me.buet.ac.bd
+buet.ac.bd
 vu.edu.bd
 bub.edu.bh
 gulfuniversity.edu.bh
@@ -1348,3 +1349,19 @@ kmitl.ac.th
 ksiu.edu.eg
 msgsu.edu.tr
 luanar.ac.mw
+unfv.edu.pe
+kpu.ac.kr
+uptecamac.edu.mx
+iccs.ac.in
+uniopet.edu.br
+dav.edu.vn
+hcmiu.edu.vn
+students.mdis.edu.sg
+oxfordcollege.edu.np
+students.nsbm.ac.lk
+tesjo.edu.mx
+unibe.edu.do
+bachkhoahanoi.edu.vn
+o365.fayoum.edu.eg
+ufpr.br
+ntthnue.edu.vn
