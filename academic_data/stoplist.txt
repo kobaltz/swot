@@ -43,7 +43,6 @@ chu.edu.cn
 cjlu.edu.cn
 codesra.cn
 cque.edu.cn
-csu.edu.cn
 ctgu.edu.cn
 cug.edu.cn
 cumtb.edu.cn
@@ -111,7 +110,6 @@ kust.edu.cn
 lcu.edu.cn
 lfnu.edu.cn
 lhmc.edu.cn
-link.tyut.edu.cn
 lixin.edu.cn
 lzjtu.edu.cn
 lzpcc.edu.cn
@@ -121,14 +119,12 @@ m.ldu.edu.cn
 mail.bnuz.edu.cn
 mail.ccmu.edu.cn
 mail.chzu.edu.cn
-mail.csu.edu.cn
 mail.dhu.edu.cn
 mail.fmftsk.cn
 mail.hbut.edu.cn
 mail.imu.edu.cn
 mail.nwpu.edu.cn
 mail.scuec.edu.cn
-mail.scut.edu.cn
 mail.sustc.edu.cn
 mail.uic.edu.cn
 mail.xjtu.edu.cn
@@ -237,7 +233,6 @@ stu.nun.edu.cn
 stu.nwupl.edu.cn
 stu.peihua.edu.cn
 stu.qlu.edu.cn
-stu.scau.edu.cn
 stu.scu.edu.cn
 stu.sdnu.edu.cn
 stu.shzu.edu.cn
@@ -262,7 +257,6 @@ stu.yznu.cn
 stu.zjhu.edu.cn
 stu.zuel.edu.cn
 stud.acdt.edu.cn
-stud.tjut.edu.cn
 student.cumtb.edu.cn
 student.cup.edu.cn
 stumail.hbu.edu.cn
@@ -681,3 +675,16 @@ alazhar.edu.ps
 mf.unsa.ba
 apps.nmims.edu.in
 universityofmanagement.sn
+sbjacksonville.com
+foundationuniversity.com
+students.sdcsc.k12.in.us
+xzc.edu.pl
+ea.ufpa.br
+iced.ufpa.br
+stu.sxpi.edu.cn
+mus.edu.rs
+ipp.cl
+bkc.edu.vn
+hungyen.itrithuc.vn
+ntpc.ufpa.br
+ics.ufpa.br

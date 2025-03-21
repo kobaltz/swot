@@ -1,7 +1,6 @@
 ac.be
 ac.gg
 ac.gn
-ac.kr
 ac.il
 ac.in
 ac.jp
