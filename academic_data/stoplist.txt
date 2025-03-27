@@ -325,9 +325,11 @@ alumni.albany.edu
 alumni.anu.edu.au
 alumni.bham.ac.uk
 alumni.cmu.edu
+alum.cs.umass.edu
 alumni.conncoll.edu
 alumni.edu.vn
 alumni.gsb.stanford.edu
+alumni.fh-campuswien.ac.at
 alumni.habib.edu.pk
 alumni.imperial.ac.uk
 alumni.iu.edu
@@ -687,3 +689,12 @@ bkc.edu.vn
 hungyen.itrithuc.vn
 ntpc.ufpa.br
 ics.ufpa.br
+chiba-c.ed.jp
+estudiante.usat.edu.pe
+mc-class.gr
+mtmcollege.in
+rsat.org.uk
+altinbas.edu.tr
+mu.ac.kr
+stumail.zcs.k12.in.us
+dusit.ac.th
