@@ -291,7 +291,7 @@ lonestar.edu
 losrios.edu
 mail.broward.edu
 mail.davistech.edu
-mail.fresnostate.edu
+fresnostate.edu
 mail.ltcc.edu
 mail.philau.edu
 mail.pima.edu
@@ -322,7 +322,6 @@ my.browncollege.edu
 my.canyons.edu
 my.ccri.edu
 my.chamberlain.edu
-my.chattanoogastate.edu
 my.chemeketa.edu
 my.cleveland.edu
 my.columbiasc.edu
@@ -566,7 +565,6 @@ mail.uca.es
 mail.ucv.es
 stu.colegiotorremalmuerta.es
 uma.es
-upm.es
 usal.es
 amu.edu.et
 haramaya.edu.et
@@ -1393,3 +1391,18 @@ bu.edu
 tcdsb.ca
 uba.ar
 northweststate.edu
+exatec.tec.mx
+gator.uhd.edu
+uhd.edu
+my.csun.edu
+net.iul.edu.lb
+alunos.sc.senac.br
+kgu.ac.kr
+students.adu.ac.ae
+altinbas.edu.tr
+daejin.ac.kr
+studenti.uniba.it
+untumbes.edu.pe
+dharanboodhooschool.edu.mv
+fju.edu.tw
+cobatab.edu.mx

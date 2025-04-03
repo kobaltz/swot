@@ -36,7 +36,6 @@ edu.ly
 edu.mg
 edu.ml
 edu.mo
-edu.mv
 edu.mw
 edu.ni
 edu.pa
