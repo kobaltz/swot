@@ -13,10 +13,8 @@ shsu.am
 alu.frlp.utn.edu.ar
 alumnos.kennedy.edu.ar
 alumnos.uai.edu.ar
-campus.economicas.uba.ar
 comunidadort.edu.ar
 ebimal.edu.ar
-economicas.uba.ar
 frsf.utn.edu.ar
 iesdelatuel.edu.ar
 mi.unc.edu.ar
@@ -459,7 +457,6 @@ students.westerntc.edu
 subr.edu
 sunydutchess.edu
 sus.edu
-sust.edu
 swccd.edu
 tamu.edu
 tbr.edu
@@ -1389,7 +1386,6 @@ wou.edu.my
 gsuite.bu.edu
 bu.edu
 tcdsb.ca
-uba.ar
 northweststate.edu
 exatec.tec.mx
 gator.uhd.edu
@@ -1408,4 +1404,5 @@ fju.edu.tw
 cobatab.edu.mx
 jsspsdubai.com
 anyang.ac.kr
-itsc.edu.do
+est.itsc.edu.do
+qu.edu.qa
