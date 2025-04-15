@@ -321,6 +321,7 @@ alum.utoronto.ca
 alumni.albany.edu
 alumni.anu.edu.au
 alumni.bham.ac.uk
+alumni.baylor.edu
 alumni.cmu.edu
 alum.cs.umass.edu
 alumni.conncoll.edu
@@ -724,3 +725,17 @@ kojimachi.ed.jp
 chiba-c.ed.jp
 student.miyazaki-c.ed.jp
 huiu.edu.vn
+mahemc.tu.edu.np
+ysu.edu.kg
+almamater.si
+alanyauniversity.edu.tr
+cccu.edu.hk
+cheonho.sen.ms.kr
+365.reru.ac.th
+allegany.edu
+bkc.edu.vn
+skhu.ac.kr
+office365.kuas.edu.tw
+ms.uki.ac.id
+tdp.edu.kg
+ds.edu.kg
