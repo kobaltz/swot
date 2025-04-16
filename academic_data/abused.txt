@@ -721,7 +721,6 @@ chosun.ac.kr
 daegu.ac.kr
 dsu.ac.kr
 duksung.ac.kr
-edu.hanbat.ac.kr
 g.hongik.ac.kr
 g.shingu.ac.kr
 g.tu.ac.kr
@@ -1409,3 +1408,4 @@ dogus.edu.tr
 ahlia.edu.bh
 mcast.edu.mt
 ivkhk.ee
+o365.hanbat.ac.kr
