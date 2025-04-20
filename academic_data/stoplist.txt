@@ -740,3 +740,7 @@ ms.uki.ac.id
 tdp.edu.kg
 ds.edu.kg
 mcu.edu.kg
+ds.edu.kg
+edu.deal
+unifacisa.edu.br
+akshara.ac.in

@@ -139,7 +139,6 @@ enayu.com
 gemselearning.com
 icamtech.com
 gmail.com
-inseec-france.com
 jmpaneracollege.com
 kkumail.com
 kmismail.com
@@ -985,9 +984,7 @@ uncp.edu.pe
 unm.edu.pe
 uns.edu.pe
 unsaac.edu.pe
-upn.pe
 upsjb.edu.pe
-usil.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
@@ -1409,3 +1406,7 @@ ahlia.edu.bh
 mcast.edu.mt
 ivkhk.ee
 o365.hanbat.ac.kr
+baraodemaua.edu.br
+jak.lv
+hpn.edu.vn
+madisoncity.k12.al.us
