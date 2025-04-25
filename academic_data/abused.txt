@@ -76,15 +76,6 @@ unilu.ac.cd
 cf
 fh-htachur.ch
 selise.ch
-academicos.uamericas.cl
-alumnos.santotomas.cl
-alumnos.utalca.cl
-correoaiep.cl
-duocuc.cl
-estudiantesunap.cl
-inacapmail.cl
-udec.cl
-usanandres.cl
 seu.edu.cn
 campusucc.edu.co
 campusvirtual.aunarvillavicencio.edu.co
@@ -591,7 +582,6 @@ edu.hmu.gr
 ee.duth.gr
 email.axc.edu.gr
 int.edu.gr
-uniwa.gr
 uowm.gr
 upnet.gr
 campoalegre.edu.gt
@@ -1410,3 +1400,4 @@ baraodemaua.edu.br
 jak.lv
 hpn.edu.vn
 madisoncity.k12.al.us
+mail.fresnostate.edu
