@@ -216,7 +216,6 @@ stu.hcnu.edu.cn
 stu.hebmu.edu.cn
 stu.hnie.edu.cn
 stu.hnucm.edu.cn
-stu.hrbust.edu.cn
 stu.hubu.edu.cn
 stu.huel.edu.cn
 stu.jhun.edu.cn
@@ -528,7 +527,6 @@ cantho.edu.vn
 bannsai.com
 office.ptu.ac.kr
 sgs.edu.co
-uettaxila.edu.pk
 dent.tanta.edu.eg
 huttoisd.org
 skhhcps.edu.hk
@@ -747,3 +745,5 @@ akshara.ac.in
 wawtech.edu.pl
 iut.edu.kg
 kk.edu.rs
+msu.edu.kg
+live.sau.ac.th
