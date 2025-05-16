@@ -732,7 +732,6 @@ cheonho.sen.ms.kr
 365.reru.ac.th
 allegany.edu
 bkc.edu.vn
-skhu.ac.kr
 office365.kuas.edu.tw
 ms.uki.ac.id
 tdp.edu.kg
@@ -759,3 +758,12 @@ sau16.org
 xlike.edu.kg
 cau.ac
 wildbmail.com
+ailora.edu.kg
+icbc.edu.kg
+iip.edu.kg
+kzxy.edu.kg
+qh.edu.kg
+infinity.edu.kg
+goldman.edu.kg
+xku.edu.rs
+fengshan.edu.kg

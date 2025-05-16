@@ -1404,3 +1404,5 @@ sdu.ac.kr
 amu.edu.pl
 lausd.net
 cbit.org.in
+osloskolen.no
+skhu.ac.kr
