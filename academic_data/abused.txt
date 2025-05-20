@@ -373,7 +373,6 @@ sacsites.csus.edu
 sanjuancollege.edu
 sbcc.edu
 scc.stanly.edu
-sfcollege.edu
 sharif.edu
 sheridan.edu
 si.edu
@@ -677,8 +676,6 @@ uopstd.edu.jo
 zu.edu.jo
 tsukuba.ac.jp
 univ.seitoku.ac.jp
-mku.ac.ke
-mylife.mku.ac.ke
 stu.kemu.ac.ke
 student.maseno.ac.ke
 student.mksu.ac.ke
@@ -1348,8 +1345,8 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-std.antalya.edu.tr
-student.hywoman.ac.kr
+antalya.edu.tr
+hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
 singimail.rs
@@ -1406,3 +1403,5 @@ lausd.net
 cbit.org.in
 osloskolen.no
 skhu.ac.kr
+eshte.pt
+o6u.edu.eg

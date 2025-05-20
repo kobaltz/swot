@@ -767,3 +767,5 @@ infinity.edu.kg
 goldman.edu.kg
 xku.edu.rs
 fengshan.edu.kg
+cnba.uba.ar
+tecnologicoismac.edu.ec
