@@ -168,7 +168,6 @@ pucmm.edu.do
 uce.edu.do
 ufhec.edu.do
 unapec.edu.do
-unicda.edu.do
 uteco.edu.do
 stu.univ-saida.dz
 univ-emir.dz
@@ -350,7 +349,6 @@ npi.edu
 nwacc.edu
 nwosu.edu
 o365.skku.edu
-occc.edu
 odessa.edu
 otc.edu
 owls.williamwoods.edu
@@ -1407,3 +1405,9 @@ hosei.ac.jp
 skku.edu
 madisoncollege.edu
 uces.edu.ar
+bcu.ac.kr
+sjsu.edu
+mail.utoronto.ca
+mwu.ac.kr
+caledonian.ac.uk
+itsjapon.edu.ec
