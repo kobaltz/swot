@@ -753,3 +753,8 @@ fpm.dnulive.dp.ua
 stu.60edu.kz
 stu.lyceegalilee.fr
 blue.knue.ac.kr
+alunoavemaria.g12.br
+dkps.uniburgas.bg
+acc.msu.ac.th
+hxu.ac.cn
+ena.edu.ci

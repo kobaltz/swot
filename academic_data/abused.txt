@@ -462,7 +462,6 @@ ustc.edu
 utexas.edu
 utrgv.edu
 valverde.edu
-vcccd.edu
 vctx.edu
 vikings.grayson.edu
 volmail.jalc.edu
@@ -711,7 +710,6 @@ hs.ac.kr
 hufs.ac.kr
 itc.ac.kr
 jejunu.ac.kr
-jnu.ac.kr
 jwu.ac.kr
 kdis.ac.kr
 kimpo.ac.kr
@@ -1411,3 +1409,15 @@ mail.utoronto.ca
 mwu.ac.kr
 caledonian.ac.uk
 itsjapon.edu.ec
+kit.ac.kr
+amaes.edu.hk
+trueharvestcollege.edu.za
+its.ac.id
+liberty.edu
+mokwon.ac.kr
+educacionbogota.edu.co
+deltauniv.edu.eg
+ulht.pt
+dgu.ac.kr
+cefet-rj.br
+poltera.ac.id
