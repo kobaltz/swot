@@ -66,7 +66,6 @@ mohawkcollege.ca
 my.centennialcollege.ca
 share.epsb.ca
 slc.ubc.ca
-student.concordia.ab.ca
 unb.ca
 uregina.ca
 workschool.ca
@@ -1421,3 +1420,5 @@ ulht.pt
 dgu.ac.kr
 cefet-rj.br
 poltera.ac.id
+gujgov.edu.in
+pomona.edu
