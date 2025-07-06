@@ -582,7 +582,6 @@ kinal.edu.gt
 udv.edu.gt
 url.edu.gt
 unah.edu.hn
-unah.hn
 eufe.edu.ht
 vict.edu.ht
 o365.u-szeged.hu
@@ -1175,7 +1174,6 @@ stu.khas.edu.tr
 stu.kmu.edu.tr
 student.cankaya.edu.tr
 student.ciu.edu.tr
-subu.edu.tr
 ufuk.edu.tr
 ybu.edu.tr
 batce.edu.tt
@@ -1423,3 +1421,15 @@ poltera.ac.id
 gujgov.edu.in
 pomona.edu
 nur.edu.bo
+fayettetech.edu
+my.csun.edu
+csun.edu
+isbstudent.comsats.edu.pk
+comsats.edu.pk
+mcru.ac.th
+studio.unibo.it
+student.polinema.ac.id
+di.uoa.gr
+psdschools.org
+yd.ac.kr
+bu.edu.eg
