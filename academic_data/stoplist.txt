@@ -753,7 +753,6 @@ iumafis.edu.co
 me.mcu.edu.tw
 aealvalade.edu.pt
 global.ac.kr
-niu.edu
 uin-suska.ac.id
 huest.edu.kg
 jp.edu.kg
@@ -891,3 +890,17 @@ saesol.sen.es.kr
 student.com.ua
 educatrachos.edu.hn
 ulim.md
+g.uao.edu.co
+lyceemermozdakar.org
+mft.edu.eg
+mycdi.ca
+live.ku.th
+lyceegalilee.fr
+giza1.moe.edu.eg
+alum.vassar.edu
+yegitek.meb.k12.tr
+edu.moe.om
+du.edu.et
+st.wu.ac.th
+thaimooc.ac.th
+qmu.kz
